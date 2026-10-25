@@ -1,0 +1,7 @@
+"area","afirmacao","risco_hipotetico","resposta_planejada","status"
+"Mensuração do ativo financeiro","Avaliação","Premissas de mensuração inadequadas ou cálculo incorreto","Inspecionar premissas e recalcular valores, se houver evidência disponível","Planejado; não representa execução real"
+"Existência e direitos","Existência e direitos e obrigações","Registro sem suporte suficiente ou direito não demonstrado","Inspecionar documentação original; não disponível nesta simulação","Planejado; não representa execução real"
+"Integridade dos registros","Integridade","Operações relevantes não registradas na população","Conciliar população e saldo de referência; reconhecer a limitação da base sintética","Planejado; não representa execução real"
+"Corte de operações","Corte","Registro em período contábil inadequado","Testar datas e documentos em registros disponíveis; nesta etapa, apenas simulação","Planejado; não representa execução real"
+"Apresentação e divulgação","Apresentação e divulgação","Divulgação incompleta ou classificação inadequada","Comparar demonstrações e notas explicativas publicadas","Planejado; não representa execução real"
+"Obrigações especiais vinculadas","Classificação e avaliação","Dedução ou classificação incorreta das obrigações especiais","Recalcular a conciliação entre ativo bruto, obrigações e saldo líquido","Planejado; não representa execução real"

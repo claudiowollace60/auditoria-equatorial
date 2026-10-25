@@ -1,0 +1,6 @@
+"teste","resultado","detalhe"
+"Quantidade mínima de registros","OK","Linhas: 500000"
+"IDs únicos","OK","IDs duplicados: 0"
+"Conciliação do ativo financeiro bruto","OK","Ativo bruto: 21062007 | Referência: 21062007"
+"Conciliação das obrigações especiais","OK","Obrigações especiais: -5862808 | Referência: -5862808"
+"Conciliação do saldo líquido","OK","Saldo líquido: 15199199 | Referência: 15199199 | Diferença: 0"
