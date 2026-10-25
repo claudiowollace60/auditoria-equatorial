@@ -1,0 +1,1 @@
+Pasta reservada aos papéis de trabalho. Todo procedimento deve ser identificado como: (1) realizado com evidência pública; (2) planejado por falta de acesso; ou (3) simulado para fins didáticos. Não descrever procedimento simulado como auditoria real.

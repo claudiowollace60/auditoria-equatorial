@@ -1,0 +1,1 @@
+Os arquivos de dados são criados ao executar R/01_gerar_base.R. Todos os registros são sintéticos. Não são dados reais da Equatorial Energia.
