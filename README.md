@@ -50,9 +50,11 @@ Opcional: `python3 R/13_gerar_xlsx.py` (planilha editável; requer `openpyxl`). 
 - Campos de revisão estão PENDENTES em todos os PTs; revisor deve preencher.
 
 ## Conformidade com as instruções do P2
-- Roteiro: PT EC + NBC TA 200, 210, 220, 230, 240, 250, 260, 265, 300, 315, 320, 330, 402, 450, 500, 501, 505, 510, 520, 530, 540, 550, 560, 570, 580, 600 (27 PTs). A NBC TA 700 não faz parte do roteiro; há apenas uma estrutura didática de relatório **sem opinião**.
-- **Versões das normas** consultadas no portal do CFC em 11/11/2026 (coluna `versao_norma` da matriz). As NBC TA 240 (R2) e 570 (R1) foram publicadas no DOU em 25/09/2026 e só se aplicam a períodos iniciados em ou após 01/01/2027 (notícia do CFC de 28/09/2026, https://cfc.org.br/noticias/cfc-atualiza-normas-de-auditoria-sobre-fraudes-e-continuidade-operacional/); para o exercício de 2025 valem a NBC TA 240 (R1) e a versão da 570 anterior à R1. O número da resolução dessas versões anteriores não consta na lista do CFC consultada e deve ser conferido.
-- **Fontes** (`fontes/controle_fontes.csv`): o PDF da DFP foi fornecido pelo aluno; a URL da Central de Resultados do RI está registrada; link direto do PDF e data de download (11/11/2026) registrados. Portais CVM e B3 constam como "não acessado".
-- **Identificação**: Equatorial S.A. (antes Equatorial Energia S.A.), ticker EQTL3 (Nota 1). Data da mudança de denominação não confirmada.
-- O arquivo da base (~11 MB compactado) cabe no limite do GitHub (100 MB).
-- A data de entrega das instruções era 25/10/2026; confirme com o professor se ainda é aceito.
+- **Roteiro.** Fiz os 27 papéis de trabalho pedidos: PT EC e NBC TA 200, 210, 220, 230, 240, 250, 260, 265, 300, 315, 320, 330, 402, 450, 500, 501, 505, 510, 520, 530, 540, 550, 560, 570, 580 e 600. A NBC TA 700 não está no roteiro, então só montei um modelo didático de relatório, sem opinião.
+
+- **Versões das normas.** Consultei a lista de normas no site do CFC em 11/11/2026 e anotei a versão de cada uma na coluna `versao_norma` da matriz de cobertura. A NBC TA 240 (R2) e a 570 (R1) saíram no DOU em 25/09/2026, mas só valem para períodos que começam em ou depois de 01/01/2027 (notícia do CFC de 28/09/2026: https://cfc.org.br/noticias/cfc-atualiza-normas-de-auditoria-sobre-fraudes-e-continuidade-operacional/). Como o exercício analisado é 2025, usei a NBC TA 240 (R1) e a versão da 570 anterior à R1. Não achei o número da resolução dessas versões antigas na lista do CFC, então ainda preciso conferir isso.
+- **Fontes** (`fontes/controle_fontes.csv`). O PDF da DFP 2025 foi baixado por mim no site de RI da Equatorial em 11/11/2026, e registrei o link direto do arquivo e a página de origem. Os portais da CVM e da B3 estão marcados como "não acessado", porque não os usei.
+- **Identificação da companhia.** Equatorial S.A. (antes Equatorial Energia S.A.), ticker EQTL3, conforme a Nota 1 da DFP. Não consegui confirmar a data exata da mudança de nome.
+- **Base sintética.** O arquivo tem cerca de 11 MB compactado, então cabe no limite de 100 MB do GitHub.
+
+
