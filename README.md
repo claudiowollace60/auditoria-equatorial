@@ -1,6 +1,6 @@
 # Auditoria 1 - P2: Equatorial S.A. (holding, consolidado) - Exercício 2025
 
-Matrícula **242010937** · Conta-alvo: **Intangível (R$ 31.729.991 mil)** · Entidade: **Equatorial S.A.** (antes Equatorial Energia S.A.; EQTL3) · Entrega: 25/10/2026 (prazo das instruções).
+Matrícula **242010937** · Conta-alvo: **Intangível (R$ 31.729.991 mil)** · Entidade: **Equatorial S.A.** (antes Equatorial Energia S.A.; EQTL3) · 
 
 > Este projeto **substitui** o anterior. O anterior usava valores de uma controlada e materialidade de 1% de R$ 15.199.199 mil; aqui tudo parte das **demonstrações consolidadas da holding** (DFP 2025, PDF fornecido).
 
