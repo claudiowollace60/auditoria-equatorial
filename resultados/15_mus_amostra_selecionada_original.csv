@@ -1,0 +1,518 @@
+"id_registro","linha_nota14","estrato","valor_liquido_mil","auditado_mil","diferenca_mil","taint"
+"INT-224262","Dist - Em servico","Item-chave (100%)",72041.628,655.635,71385.993,0.990899220100912
+"INT-346388","Ger - Direito de autorizacao","Item-chave (100%)",121852.516,2327.306,119525.21,0.980900632367739
+"INT-000603","Dist - Em servico","Amostra MUS",18999.946,251.86,18748.086,0.98674417285186
+"INT-001547","Dist - Em servico","Amostra MUS",44.8,44.8,0,0
+"INT-002609","Dist - Em servico","Amostra MUS",22.508,22.508,0,0
+"INT-003644","Ger - Direito de autorizacao","Amostra MUS",668.093,668.093,0,0
+"INT-004687","DC - CEEE-D","Amostra MUS",539.188,539.188,0,0
+"INT-005791","Dist - Em servico","Amostra MUS",22.799,22.799,0,0
+"INT-006766","Dist - Em servico","Amostra MUS",297.505,297.505,0,0
+"INT-007616","Dist - Em servico","Amostra MUS",359.635,359.635,0,0
+"INT-008667","Dist - Em servico","Amostra MUS",358.573,358.573,0,0
+"INT-009716","Ger - Direito de autorizacao","Amostra MUS",397.904,397.904,0,0
+"INT-010907","Dist - Em servico","Amostra MUS",281.211,281.211,0,0
+"INT-011951","Dist - Em servico","Amostra MUS",55.998,55.998,0,0
+"INT-012955","Dist - Em servico","Amostra MUS",8.314,8.314,0,0
+"INT-013962","Dist - Em servico","Amostra MUS",113.212,113.212,0,0
+"INT-014959","DC - CEEE-D","Amostra MUS",159.364,159.364,0,0
+"INT-016008","DC - CEEE-D","Amostra MUS",240.535,240.535,0,0
+"INT-017140","Dist - Em servico","Amostra MUS",101.146,101.146,0,0
+"INT-018190","Dist - Em servico","Amostra MUS",114.039,114.039,0,0
+"INT-019225","Dist - Em servico","Amostra MUS",254.346,254.346,0,0
+"INT-020330","Dist - Em servico","Amostra MUS",1579.444,1579.444,0,0
+"INT-021254","DC - Piaui","Amostra MUS",132.987,132.033,0.954,0.00717363351305015
+"INT-022260","Dist - Em servico","Amostra MUS",69.133,69.133,0,0
+"INT-023281","DC - CEEE-D","Amostra MUS",903.488,903.488,0,0
+"INT-024343","Dist - Em servico","Amostra MUS",163.024,163.024,0,0
+"INT-025331","Dist - Em servico","Amostra MUS",1251.567,1251.567,0,0
+"INT-026429","Dist - Em servico","Amostra MUS",671.534,671.534,0,0
+"INT-027301","San - DC CSA","Amostra MUS",883.407,883.407,0,0
+"INT-028329","Dist - Em servico","Amostra MUS",74.832,74.832,0,0
+"INT-029392","Dist - Em servico","Amostra MUS",37.906,37.906,0,0
+"INT-030381","Dist - Em servico","Amostra MUS",380.43,380.43,0,0
+"INT-031391","Dist - Em servico","Amostra MUS",109.951,109.951,0,0
+"INT-032462","Dist - Em servico","Amostra MUS",240.228,240.228,0,0
+"INT-033488","Dist - Em servico","Amostra MUS",438.779,438.779,0,0
+"INT-034515","Dist - Em servico","Amostra MUS",36.966,36.966,0,0
+"INT-035479","DC - Piaui","Amostra MUS",157.393,157.393,0,0
+"INT-036631","Dist - Em servico","Amostra MUS",160.344,160.344,0,0
+"INT-037677","Dist - Em servico","Amostra MUS",43.636,43.636,0,0
+"INT-038849","Dist - Em servico","Amostra MUS",1179.065,1179.065,0,0
+"INT-039920","Dist - Em servico","Amostra MUS",147.719,147.719,0,0
+"INT-040905","DC - CEA","Amostra MUS",226.364,226.364,0,0
+"INT-041924","DC - Piaui","Amostra MUS",277.487,277.487,0,0
+"INT-042878","Dist - Em servico","Amostra MUS",174.311,174.311,0,0
+"INT-043751","Dist - Em servico","Amostra MUS",117.343,117.343,0,0
+"INT-044726","Dist - Em servico","Amostra MUS",127.193,127.193,0,0
+"INT-045532","Dist - Em servico","Amostra MUS",18876.104,230.967,18645.137,0.98776405342967
+"INT-046542","Dist - Em servico","Amostra MUS",30.254,30.254,0,0
+"INT-047593","Dist - Em servico","Amostra MUS",49.802,49.802,0,0
+"INT-048721","Ger - Direito de autorizacao","Amostra MUS",2581.879,2570.749,11.13,0.00431081394596726
+"INT-049739","Dist - Em servico","Amostra MUS",13671.794,66.895,13604.899,0.995107079582972
+"INT-050755","Dist - Em servico","Amostra MUS",417.465,417.465,0,0
+"INT-051801","Dist - Em servico","Amostra MUS",404.254,404.254,0,0
+"INT-052850","DC - CEEE-D","Amostra MUS",105.928,105.928,0,0
+"INT-053866","DC - CEA","Amostra MUS",251.878,251.878,0,0
+"INT-054844","Dist - Em servico","Amostra MUS",340.388,340.388,0,0
+"INT-055815","Dist - Em servico","Amostra MUS",626.966,626.966,0,0
+"INT-056933","Dist - Outros","Amostra MUS",15.324,15.324,0,0
+"INT-058042","Dist - Em servico","Amostra MUS",170.233,170.233,0,0
+"INT-059087","DC - Piaui","Amostra MUS",229.053,229.053,0,0
+"INT-060117","Dist - Em servico","Amostra MUS",1209.438,8.693,1200.745,0.992812364089767
+"INT-061142","Ger - Direito de autorizacao","Amostra MUS",947.719,947.719,0,0
+"INT-062267","Dist - Em servico","Amostra MUS",125.21,125.21,0,0
+"INT-063373","Dist - Em servico","Amostra MUS",75.093,75.093,0,0
+"INT-064441","Dist - Em servico","Amostra MUS",123.025,123.025,0,0
+"INT-065522","Dist - Em servico","Amostra MUS",47.43,47.43,0,0
+"INT-066588","Dist - Em servico","Amostra MUS",912.649,912.649,0,0
+"INT-067694","DC - CEEE-D","Amostra MUS",276.56,276.56,0,0
+"INT-068670","Dist - Em servico","Amostra MUS",1020.564,1020.564,0,0
+"INT-069600","Dist - Em servico","Amostra MUS",51.629,51.629,0,0
+"INT-070657","Dist - Em servico","Amostra MUS",43.726,43.726,0,0
+"INT-071638","Dist - Em servico","Amostra MUS",237.448,237.448,0,0
+"INT-072610","Dist - Em servico","Amostra MUS",60.19,60.19,0,0
+"INT-073662","Dist - Em servico","Amostra MUS",564.347,564.347,0,0
+"INT-074761","Dist - Em servico","Amostra MUS",65.302,65.302,0,0
+"INT-075675","Dist - Em servico","Amostra MUS",35.617,35.617,0,0
+"INT-076726","Ger - Direito de autorizacao","Amostra MUS",252.721,252.721,0,0
+"INT-077795","Dist - Em servico","Amostra MUS",589.508,589.508,0,0
+"INT-078897","Dist - Em servico","Amostra MUS",26.015,26.015,0,0
+"INT-079971","DC - Piaui","Amostra MUS",932.137,932.137,0,0
+"INT-081014","DC - Alagoas","Amostra MUS",791.578,791.578,0,0
+"INT-082201","Dist - Em servico","Amostra MUS",11.675,11.675,0,0
+"INT-083289","Dist - Em servico","Amostra MUS",88.913,88.913,0,0
+"INT-084241","DC - CEEE-D","Amostra MUS",3568.713,3568.713,0,0
+"INT-085239","DC - Piaui","Amostra MUS",293.755,293.755,0,0
+"INT-086297","Dist - Em servico","Amostra MUS",39.636,39.636,0,0
+"INT-087324","Dist - Em servico","Amostra MUS",905.805,905.805,0,0
+"INT-088318","Dist - Em servico","Amostra MUS",299.988,299.988,0,0
+"INT-089269","Dist - Em servico","Amostra MUS",65.372,65.372,0,0
+"INT-090300","Dist - Em servico","Amostra MUS",19319.947,170.796,19149.151,0.991159603077586
+"INT-090911","Dist - Em servico","Amostra MUS",171.239,171.239,0,0
+"INT-091942","DC - CEA","Amostra MUS",1485.661,1485.661,0,0
+"INT-093011","DC - CEEE-D","Amostra MUS",375.784,375.784,0,0
+"INT-094073","DC - CEEE-D","Amostra MUS",730.708,730.708,0,0
+"INT-095267","Dist - Em servico","Amostra MUS",102.148,102.148,0,0
+"INT-096306","Ger - Direito de exploracao","Amostra MUS",670.947,670.947,0,0
+"INT-097415","DC - Piaui","Amostra MUS",140.054,140.054,0,0
+"INT-098545","Dist - Em servico","Amostra MUS",73.959,73.959,0,0
+"INT-099644","Ger - Direito de autorizacao","Amostra MUS",800.157,800.157,0,0
+"INT-100824","Ger - Direito de autorizacao","Amostra MUS",170.631,170.631,0,0
+"INT-101861","Dist - Em servico","Amostra MUS",7.575,7.575,0,0
+"INT-102796","Dist - Em servico","Amostra MUS",227.382,227.382,0,0
+"INT-103802","San - DC CSA","Amostra MUS",105.275,105.275,0,0
+"INT-104773","Ger - Direito de autorizacao","Amostra MUS",4007.186,4007.186,0,0
+"INT-105034","DC - Piaui","Amostra MUS",61333.656,947.575,60386.081,0.984550488886558
+"INT-105792","DC - CEEE-D","Amostra MUS",261.699,261.699,0,0
+"INT-106890","Dist - Em servico","Amostra MUS",117.912,117.912,0,0
+"INT-107882","Ger - Direito de autorizacao","Amostra MUS",88.831,88.831,0,0
+"INT-109011","DC - CEA","Amostra MUS",329.197,329.197,0,0
+"INT-110024","Dist - Outros","Amostra MUS",14.318,14.318,0,0
+"INT-111115","Dist - Em servico","Amostra MUS",31.318,31.318,0,0
+"INT-112166","Dist - Em servico","Amostra MUS",1625.968,1625.968,0,0
+"INT-113134","Dist - Em servico","Amostra MUS",234.773,234.773,0,0
+"INT-114200","Dist - Em servico","Amostra MUS",811.788,811.788,0,0
+"INT-115088","DC - CEEE-D","Amostra MUS",474.22,474.22,0,0
+"INT-116037","Dist - Em servico","Amostra MUS",278.423,278.423,0,0
+"INT-117172","DC - CEEE-D","Amostra MUS",323.622,323.622,0,0
+"INT-118214","Dist - Em servico","Amostra MUS",252.259,252.259,0,0
+"INT-119238","Dist - Em servico","Amostra MUS",22.664,22.664,0,0
+"INT-120339","Ger - Direito de autorizacao","Amostra MUS",794.986,794.986,0,0
+"INT-121402","Dist - Em servico","Amostra MUS",312.502,312.502,0,0
+"INT-122436","Ger - Direito de autorizacao","Amostra MUS",135.308,135.308,0,0
+"INT-123550","Dist - Em servico","Amostra MUS",431.572,431.572,0,0
+"INT-124586","Dist - Em servico","Amostra MUS",74.357,74.357,0,0
+"INT-125649","Dist - Em servico","Amostra MUS",145.885,145.885,0,0
+"INT-126743","Ger - Direito de autorizacao","Amostra MUS",401.76,401.76,0,0
+"INT-127805","Ger - Direito de autorizacao","Amostra MUS",4673.569,4673.569,0,0
+"INT-128789","Dist - Em servico","Amostra MUS",38.369,38.369,0,0
+"INT-129798","Dist - Em servico","Amostra MUS",2050.263,2050.263,0,0
+"INT-130739","Dist - Em servico","Amostra MUS",499.692,499.692,0,0
+"INT-131756","Dist - Em servico","Amostra MUS",1266.88,1266.88,0,0
+"INT-132796","DC - Alagoas","Amostra MUS",83.812,83.812,0,0
+"INT-133924","DC - Alagoas","Amostra MUS",709.622,709.622,0,0
+"INT-134914","Dist - Em servico","Amostra MUS",17.12,17.12,0,0
+"INT-136072","Dist - Em servico","Amostra MUS",314.042,314.042,0,0
+"INT-137197","Dist - Em servico","Amostra MUS",1217.761,1217.761,0,0
+"INT-138031","DC - CEEE-D","Amostra MUS",1330.277,1330.277,0,0
+"INT-139102","Dist - Em servico","Amostra MUS",11.466,11.466,0,0
+"INT-140139","DC - Alagoas","Amostra MUS",247.929,247.929,0,0
+"INT-141284","Dist - Em servico","Amostra MUS",147.065,147.065,0,0
+"INT-142445","Ger - Direito de autorizacao","Amostra MUS",835.04,835.04,0,0
+"INT-143554","Dist - Em servico","Amostra MUS",24.457,24.457,0,0
+"INT-144512","Dist - Em servico","Amostra MUS",674.843,674.843,0,0
+"INT-145509","Dist - Em servico","Amostra MUS",1380.356,1380.356,0,0
+"INT-146346","San - DC CSA","Amostra MUS",349.271,349.271,0,0
+"INT-147372","Ger - Direito de autorizacao","Amostra MUS",339.891,339.891,0,0
+"INT-148409","DC - CEEE-D","Amostra MUS",459.754,459.754,0,0
+"INT-149427","Dist - Em servico","Amostra MUS",135.17,135.17,0,0
+"INT-150422","San - DC CSA","Amostra MUS",47.53,47.53,0,0
+"INT-151416","Dist - Em servico","Amostra MUS",29.508,29.508,0,0
+"INT-152363","Dist - Em servico","Amostra MUS",143.747,143.747,0,0
+"INT-153378","DC - CEEE-D","Amostra MUS",1688.265,1688.265,0,0
+"INT-154450","Dist - Em servico","Amostra MUS",45.041,45.041,0,0
+"INT-155559","Dist - Em servico","Amostra MUS",74.393,74.393,0,0
+"INT-156728","Dist - Em servico","Amostra MUS",14.943,14.943,0,0
+"INT-157656","Dist - Em servico","Amostra MUS",67.929,67.929,0,0
+"INT-158578","Dist - Em servico","Amostra MUS",295.889,295.889,0,0
+"INT-159516","Dist - Em servico","Amostra MUS",882.576,882.576,0,0
+"INT-160540","Dist - Em servico","Amostra MUS",86.451,86.451,0,0
+"INT-161567","Dist - Em servico","Amostra MUS",59.242,59.242,0,0
+"INT-162724","Dist - Em servico","Amostra MUS",1337.798,1337.798,0,0
+"INT-163646","DC - CEEE-D","Amostra MUS",524.897,524.897,0,0
+"INT-164577","Dist - Em servico","Amostra MUS",241.355,241.355,0,0
+"INT-165237","Dist - Em servico","Amostra MUS",30.534,30.534,0,0
+"INT-166334","Dist - Em servico","Amostra MUS",138.144,138.144,0,0
+"INT-167520","Dist - Em servico","Amostra MUS",480.062,480.062,0,0
+"INT-168478","Dist - Em servico","Amostra MUS",55.113,55.113,0,0
+"INT-169486","Dist - Em servico","Amostra MUS",53.852,53.852,0,0
+"INT-170369","Dist - Em servico","Amostra MUS",263.268,263.268,0,0
+"INT-171382","Dist - Em servico","Amostra MUS",20.63,20.63,0,0
+"INT-172380","Dist - Em servico","Amostra MUS",47.116,47.116,0,0
+"INT-173404","Dist - Em servico","Amostra MUS",80.02,80.02,0,0
+"INT-174607","DC - CEA","Amostra MUS",266.736,266.736,0,0
+"INT-175670","Ger - Direito de autorizacao","Amostra MUS",3979.664,3979.664,0,0
+"INT-176693","Ger - Direito de autorizacao","Amostra MUS",1246.12,1246.12,0,0
+"INT-177765","DC - Alagoas","Amostra MUS",282.366,282.366,0,0
+"INT-178770","Dist - Em servico","Amostra MUS",115.106,115.106,0,0
+"INT-179747","Dist - Em servico","Amostra MUS",9.599,9.599,0,0
+"INT-180736","Dist - Em servico","Amostra MUS",283.392,3.91,279.482,0.986202856820235
+"INT-181753","Dist - Em servico","Amostra MUS",54.978,54.978,0,0
+"INT-182658","Dist - Em servico","Amostra MUS",91.551,91.551,0,0
+"INT-183590","Dist - Em servico","Amostra MUS",3.843,3.843,0,0
+"INT-184708","Dist - Em servico","Amostra MUS",43.535,43.535,0,0
+"INT-185862","Dist - Em servico","Amostra MUS",155.329,155.329,0,0
+"INT-186838","Dist - Em servico","Amostra MUS",14.898,14.898,0,0
+"INT-187858","Dist - Em servico","Amostra MUS",40.426,40.426,0,0
+"INT-188892","Dist - Em servico","Amostra MUS",409.505,409.505,0,0
+"INT-190000","DC - CEA","Amostra MUS",50.831,50.831,0,0
+"INT-190979","DC - Piaui","Amostra MUS",2132.191,2132.191,0,0
+"INT-191985","Ger - Direito de autorizacao","Amostra MUS",14743.41,14743.41,0,0
+"INT-192805","DC - Piaui","Amostra MUS",37.019,37.019,0,0
+"INT-193752","DC - Alagoas","Amostra MUS",47.004,47.004,0,0
+"INT-194883","DC - CEEE-D","Amostra MUS",1229.767,1229.767,0,0
+"INT-195950","Dist - Em servico","Amostra MUS",32.286,32.286,0,0
+"INT-197024","Dist - Em servico","Amostra MUS",102.067,102.067,0,0
+"INT-197876","Dist - Em servico","Amostra MUS",199.71,199.71,0,0
+"INT-198840","Dist - Em servico","Amostra MUS",12.119,12.119,0,0
+"INT-199874","Dist - Em servico","Amostra MUS",82.478,82.478,0,0
+"INT-200923","Dist - Em servico","Amostra MUS",37.111,37.111,0,0
+"INT-201946","Dist - Em servico","Amostra MUS",23.421,23.421,0,0
+"INT-203065","DC - Piaui","Amostra MUS",14.168,14.168,0,0
+"INT-203982","Dist - Em servico","Amostra MUS",6.141,6.141,0,0
+"INT-205062","Ger - Direito de exploracao","Amostra MUS",95.764,95.764,0,0
+"INT-206200","Ger - Direito de exploracao","Amostra MUS",37.321,37.321,0,0
+"INT-207282","Dist - Em servico","Amostra MUS",121.882,121.882,0,0
+"INT-208304","DC - CEA","Amostra MUS",1285.225,1285.225,0,0
+"INT-209471","DC - CEA","Amostra MUS",595.485,595.485,0,0
+"INT-210537","Dist - Em servico","Amostra MUS",263.011,263.011,0,0
+"INT-211636","Dist - Em servico","Amostra MUS",204.544,204.544,0,0
+"INT-212737","Dist - Em servico","Amostra MUS",165.736,165.736,0,0
+"INT-213839","DC - CEEE-D","Amostra MUS",262.213,262.213,0,0
+"INT-214784","Dist - Em servico","Amostra MUS",31.262,31.262,0,0
+"INT-215810","Dist - Em servico","Amostra MUS",46.382,46.382,0,0
+"INT-216874","Dist - Em servico","Amostra MUS",84.54,84.54,0,0
+"INT-217882","Dist - Em servico","Amostra MUS",1352.47,1352.47,0,0
+"INT-219079","DC - Alagoas","Amostra MUS",187.54,187.54,0,0
+"INT-220165","Dist - Em servico","Amostra MUS",198.825,198.825,0,0
+"INT-221188","Dist - Em servico","Amostra MUS",208.265,208.265,0,0
+"INT-222126","Dist - Em servico","Amostra MUS",28.124,28.124,0,0
+"INT-223159","Ger - Outros","Amostra MUS",33.611,33.611,0,0
+"INT-224102","Dist - Em servico","Amostra MUS",269.403,269.403,0,0
+"INT-225194","Dist - Em servico","Amostra MUS",241.629,241.629,0,0
+"INT-226142","Ger - Direito de autorizacao","Amostra MUS",4477.209,4477.209,0,0
+"INT-227253","Dist - Em servico","Amostra MUS",142.148,142.148,0,0
+"INT-228227","Dist - Em servico","Amostra MUS",32.344,32.344,0,0
+"INT-229281","Dist - Em servico","Amostra MUS",44.568,44.568,0,0
+"INT-230330","Dist - Em servico","Amostra MUS",232.048,232.048,0,0
+"INT-231043","DC - CEEE-D","Amostra MUS",274.872,274.872,0,0
+"INT-232004","Dist - Em servico","Amostra MUS",137.204,137.204,0,0
+"INT-232602","Dist - Em servico","Amostra MUS",65.357,65.357,0,0
+"INT-233684","Dist - Em servico","Amostra MUS",67.916,67.916,0,0
+"INT-234531","Dist - Em servico","Amostra MUS",2771.963,2771.963,0,0
+"INT-235504","DC - CEEE-D","Amostra MUS",5575.482,5575.482,0,0
+"INT-236391","Dist - Em servico","Amostra MUS",10628.75,175.286,10453.464,0.983508314712454
+"INT-237334","Dist - Em servico","Amostra MUS",30.727,30.727,0,0
+"INT-238360","Dist - Em servico","Amostra MUS",34.26,34.26,0,0
+"INT-239319","DC - CEEE-D","Amostra MUS",166.504,166.504,0,0
+"INT-240368","Dist - Em servico","Amostra MUS",78.889,78.889,0,0
+"INT-241402","Dist - Em servico","Amostra MUS",952.033,952.033,0,0
+"INT-242466","Dist - Em servico","Amostra MUS",5.211,5.211,0,0
+"INT-243339","Dist - Em servico","Amostra MUS",260.619,260.619,0,0
+"INT-244404","Dist - Em servico","Amostra MUS",30.472,30.472,0,0
+"INT-245461","Dist - Em servico","Amostra MUS",46.93,46.93,0,0
+"INT-246448","DC - Piaui","Amostra MUS",559.366,559.366,0,0
+"INT-247557","DC - CEA","Amostra MUS",962.226,962.226,0,0
+"INT-248633","Dist - Em servico","Amostra MUS",127.092,127.092,0,0
+"INT-249753","Ger - Direito de autorizacao","Amostra MUS",1011.8,1011.8,0,0
+"INT-250725","Dist - Em servico","Amostra MUS",1850.857,1850.857,0,0
+"INT-251771","Dist - Em servico","Amostra MUS",65.587,65.587,0,0
+"INT-252765","Dist - Em servico","Amostra MUS",46.764,46.764,0,0
+"INT-253728","Dist - Em servico","Amostra MUS",242.034,242.034,0,0
+"INT-254740","Dist - Em servico","Amostra MUS",207.525,207.525,0,0
+"INT-255779","Dist - Em servico","Amostra MUS",361.976,361.976,0,0
+"INT-256826","Dist - Em servico","Amostra MUS",33.388,33.388,0,0
+"INT-257907","Dist - Em servico","Amostra MUS",11.06,11.06,0,0
+"INT-258915","Dist - Em servico","Amostra MUS",596.086,596.086,0,0
+"INT-259975","Ger - Direito de autorizacao","Amostra MUS",696.139,696.139,0,0
+"INT-261097","Dist - Em servico","Amostra MUS",32.846,32.846,0,0
+"INT-262112","Dist - Em servico","Amostra MUS",97.056,97.056,0,0
+"INT-263183","Dist - Em servico","Amostra MUS",414.875,414.875,0,0
+"INT-263655","Dist - Em servico","Amostra MUS",796.366,796.366,0,0
+"INT-264641","DC - CEA","Amostra MUS",1014.285,1014.285,0,0
+"INT-265739","Dist - Em servico","Amostra MUS",130.74,130.74,0,0
+"INT-266737","DC - Piaui","Amostra MUS",57.679,57.679,0,0
+"INT-267815","Ger - Direito de autorizacao","Amostra MUS",200.038,200.038,0,0
+"INT-268861","Dist - Em servico","Amostra MUS",404.19,404.19,0,0
+"INT-269874","Dist - Em servico","Amostra MUS",24.155,24.155,0,0
+"INT-270925","Dist - Em servico","Amostra MUS",165.468,165.468,0,0
+"INT-271889","Dist - Em servico","Amostra MUS",597.448,597.448,0,0
+"INT-272849","Dist - Em servico","Amostra MUS",6.642,6.642,0,0
+"INT-273999","Dist - Em servico","Amostra MUS",132.492,132.492,0,0
+"INT-275021","DC - Piaui","Amostra MUS",26.938,26.938,0,0
+"INT-276045","Ger - Direito de exploracao","Amostra MUS",1009.715,1009.715,0,0
+"INT-276956","Dist - Em servico","Amostra MUS",31.657,31.657,0,0
+"INT-278117","Dist - Em servico","Amostra MUS",41.555,41.555,0,0
+"INT-279078","Dist - Em servico","Amostra MUS",293.18,293.18,0,0
+"INT-280128","Dist - Em servico","Amostra MUS",111.897,111.897,0,0
+"INT-281223","Dist - Em servico","Amostra MUS",18.024,18.024,0,0
+"INT-282166","Dist - Em servico","Amostra MUS",242.601,242.601,0,0
+"INT-283196","DC - Piaui","Amostra MUS",199.154,199.154,0,0
+"INT-284120","Dist - Em servico","Amostra MUS",171.934,171.934,0,0
+"INT-285130","Ger - Direito de autorizacao","Amostra MUS",582.472,582.472,0,0
+"INT-286112","Dist - Em servico","Amostra MUS",179.366,179.366,0,0
+"INT-287153","Dist - Em servico","Amostra MUS",559.908,559.908,0,0
+"INT-288128","Dist - Em servico","Amostra MUS",158.682,158.682,0,0
+"INT-289215","Dist - Em servico","Amostra MUS",209.126,209.126,0,0
+"INT-290174","DC - CEEE-D","Amostra MUS",1910.86,1910.86,0,0
+"INT-291217","DC - CEEE-D","Amostra MUS",315.365,141.224,174.141,0.552188733689534
+"INT-292252","Ger - Direito de autorizacao","Amostra MUS",641.487,641.487,0,0
+"INT-293331","Dist - Em servico","Amostra MUS",516.262,516.262,0,0
+"INT-294233","Dist - Em servico","Amostra MUS",332.227,332.227,0,0
+"INT-295338","Ger - Direito de autorizacao","Amostra MUS",1940.215,1940.215,0,0
+"INT-296379","Dist - Em servico","Amostra MUS",12.587,12.587,0,0
+"INT-297322","Dist - Em servico","Amostra MUS",208.018,208.018,0,0
+"INT-298403","Dist - Em servico","Amostra MUS",53.509,53.509,0,0
+"INT-299532","Dist - Em servico","Amostra MUS",176.708,176.708,0,0
+"INT-300542","Dist - Em servico","Amostra MUS",303.671,303.671,0,0
+"INT-301631","Ger - Direito de exploracao","Amostra MUS",388.015,388.015,0,0
+"INT-302676","Dist - Em servico","Amostra MUS",448.775,448.775,0,0
+"INT-303748","Dist - Em servico","Amostra MUS",42.221,42.221,0,0
+"INT-304921","Dist - Em servico","Amostra MUS",76.607,76.607,0,0
+"INT-305997","Dist - Em servico","Amostra MUS",33.843,33.843,0,0
+"INT-306962","Dist - Em servico","Amostra MUS",103.488,103.488,0,0
+"INT-308103","DC - CEEE-D","Amostra MUS",259.77,259.77,0,0
+"INT-309122","DC - Alagoas","Amostra MUS",67.681,67.681,0,0
+"INT-310059","DC - Alagoas","Amostra MUS",790.347,790.347,0,0
+"INT-310961","DC - CEEE-D","Amostra MUS",221.542,221.542,0,0
+"INT-311944","Dist - Em servico","Amostra MUS",5593.804,24.758,5569.046,0.995574031553483
+"INT-312901","Dist - Em servico","Amostra MUS",513.693,513.693,0,0
+"INT-313912","Ger - Direito de exploracao","Amostra MUS",120.663,120.663,0,0
+"INT-314980","Dist - Em servico","Amostra MUS",222.402,222.402,0,0
+"INT-315906","Dist - Em servico","Amostra MUS",126.913,126.913,0,0
+"INT-317002","Ger - Direito de autorizacao","Amostra MUS",532.896,532.896,0,0
+"INT-317950","Dist - Em servico","Amostra MUS",61.995,61.995,0,0
+"INT-318976","Dist - Em servico","Amostra MUS",56.406,56.406,0,0
+"INT-320035","Dist - Em servico","Amostra MUS",95.483,95.483,0,0
+"INT-321107","Dist - Em servico","Amostra MUS",439.287,439.287,0,0
+"INT-322185","Dist - Em servico","Amostra MUS",287.297,287.297,0,0
+"INT-323205","Dist - Em servico","Amostra MUS",204.326,204.326,0,0
+"INT-324094","Dist - Em servico","Amostra MUS",82.416,82.416,0,0
+"INT-324964","Dist - Em servico","Amostra MUS",15.583,15.583,0,0
+"INT-326093","Dist - Em servico","Amostra MUS",130.899,130.899,0,0
+"INT-327181","Ger - Direito de autorizacao","Amostra MUS",978.214,978.214,0,0
+"INT-328223","DC - CEEE-D","Amostra MUS",1779.475,1779.475,0,0
+"INT-329291","Dist - Em servico","Amostra MUS",475.202,475.202,0,0
+"INT-330305","Dist - Em servico","Amostra MUS",314.474,314.474,0,0
+"INT-331461","Dist - Em servico","Amostra MUS",265.41,265.41,0,0
+"INT-332501","Dist - Em servico","Amostra MUS",182.644,182.644,0,0
+"INT-333515","DC - CEA","Amostra MUS",379.764,379.764,0,0
+"INT-334577","Dist - Em servico","Amostra MUS",82.427,82.427,0,0
+"INT-335501","Dist - Em servico","Amostra MUS",268.264,268.264,0,0
+"INT-336596","Dist - Em servico","Amostra MUS",15.973,15.973,0,0
+"INT-337665","Dist - Em servico","Amostra MUS",62.383,62.383,0,0
+"INT-338707","Dist - Em servico","Amostra MUS",48288.909,429.384,47859.525,0.991108020270245
+"INT-339216","Dist - Em servico","Amostra MUS",276.384,276.384,0,0
+"INT-340171","Dist - Em servico","Amostra MUS",26.426,26.426,0,0
+"INT-341205","DC - Piaui","Amostra MUS",338.758,338.758,0,0
+"INT-342316","DC - CEEE-D","Amostra MUS",550.275,550.275,0,0
+"INT-343256","DC - CEEE-D","Amostra MUS",307.69,307.69,0,0
+"INT-344222","DC - CEEE-D","Amostra MUS",5011.935,5011.935,0,0
+"INT-345187","Dist - Em servico","Amostra MUS",263.42,263.42,0,0
+"INT-346144","Dist - Em servico","Amostra MUS",32910.137,231.449,32678.688,0.992967242889326
+"INT-346849","Dist - Em servico","Amostra MUS",321.439,321.439,0,0
+"INT-347902","Ger - Direito de autorizacao","Amostra MUS",174.739,174.739,0,0
+"INT-349090","Dist - Em servico","Amostra MUS",1475.811,1475.811,0,0
+"INT-350043","Dist - Em servico","Amostra MUS",206.39,206.39,0,0
+"INT-351159","Dist - Em servico","Amostra MUS",27.661,27.661,0,0
+"INT-352274","Dist - Em servico","Amostra MUS",189.288,189.288,0,0
+"INT-353296","Dist - Em servico","Amostra MUS",145.332,145.332,0,0
+"INT-354208","Dist - Em servico","Amostra MUS",69.607,69.607,0,0
+"INT-355260","DC - CEEE-D","Amostra MUS",80.716,80.716,0,0
+"INT-356249","Dist - Em servico","Amostra MUS",17.352,17.352,0,0
+"INT-357304","Ger - Direito de exploracao","Amostra MUS",877.215,877.215,0,0
+"INT-358410","Dist - Em servico","Amostra MUS",17376.815,279.245,17097.57,0.983930024000371
+"INT-359342","Dist - Em servico","Amostra MUS",200.83,200.83,0,0
+"INT-360414","Dist - Em servico","Amostra MUS",244.203,244.203,0,0
+"INT-361397","Dist - Em servico","Amostra MUS",1641.058,1641.058,0,0
+"INT-362351","San - DC CSA","Amostra MUS",173.599,173.599,0,0
+"INT-363281","Dist - Em servico","Amostra MUS",128.501,128.501,0,0
+"INT-364369","Dist - Em servico","Amostra MUS",259.52,259.52,0,0
+"INT-365304","Dist - Em servico","Amostra MUS",199.829,199.829,0,0
+"INT-366396","Dist - Em servico","Amostra MUS",14.287,14.287,0,0
+"INT-367387","Dist - Em servico","Amostra MUS",24.189,24.189,0,0
+"INT-368407","Dist - Em servico","Amostra MUS",315.138,315.138,0,0
+"INT-369410","Dist - Em servico","Amostra MUS",133.425,133.425,0,0
+"INT-370373","Dist - Em servico","Amostra MUS",1163.976,1163.976,0,0
+"INT-371440","Dist - Em servico","Amostra MUS",56.071,56.071,0,0
+"INT-372592","Dist - Em servico","Amostra MUS",19.306,19.306,0,0
+"INT-373537","Dist - Em servico","Amostra MUS",4.812,4.812,0,0
+"INT-374594","Ger - Direito de exploracao","Amostra MUS",2618.708,2618.708,0,0
+"INT-375578","Dist - Outros","Amostra MUS",4.382,4.382,0,0
+"INT-376616","Dist - Em servico","Amostra MUS",10451.258,121.617,10329.641,0.988363410414325
+"INT-377554","Dist - Em servico","Amostra MUS",290.536,290.536,0,0
+"INT-378575","Dist - Em servico","Amostra MUS",18.691,18.691,0,0
+"INT-379562","Dist - Em servico","Amostra MUS",957.202,957.202,0,0
+"INT-380546","Dist - Em servico","Amostra MUS",673.163,673.163,0,0
+"INT-381613","Dist - Em servico","Amostra MUS",17.232,17.232,0,0
+"INT-382630","Dist - Em servico","Amostra MUS",1207.674,1207.674,0,0
+"INT-383697","Dist - Em servico","Amostra MUS",420.837,420.837,0,0
+"INT-384785","Dist - Em servico","Amostra MUS",68.925,68.925,0,0
+"INT-385846","Dist - Em servico","Amostra MUS",45.612,45.612,0,0
+"INT-386949","Dist - Em servico","Amostra MUS",39.672,39.672,0,0
+"INT-388085","Dist - Em servico","Amostra MUS",291.074,291.074,0,0
+"INT-389234","Dist - Em servico","Amostra MUS",1867.891,1867.891,0,0
+"INT-390304","Dist - Em servico","Amostra MUS",316.588,316.588,0,0
+"INT-391353","Dist - Em servico","Amostra MUS",454.971,454.971,0,0
+"INT-392436","Dist - Em servico","Amostra MUS",20.159,20.159,0,0
+"INT-393406","DC - CEEE-D","Amostra MUS",257.41,257.41,0,0
+"INT-394432","San - DC CSA","Amostra MUS",315.31,315.31,0,0
+"INT-395530","Dist - Em servico","Amostra MUS",101.976,101.976,0,0
+"INT-396405","Dist - Em servico","Amostra MUS",87.749,87.749,0,0
+"INT-397355","Dist - Em servico","Amostra MUS",139.351,139.351,0,0
+"INT-398318","Dist - Em servico","Amostra MUS",49.198,49.198,0,0
+"INT-399193","Ger - Direito de exploracao","Amostra MUS",63.28,63.28,0,0
+"INT-400187","Dist - Em servico","Amostra MUS",3457.174,3457.174,0,0
+"INT-401270","Dist - Em servico","Amostra MUS",69.823,69.823,0,0
+"INT-402275","DC - Piaui","Amostra MUS",322.383,322.383,0,0
+"INT-403299","Dist - Em servico","Amostra MUS",1340.784,1340.784,0,0
+"INT-404332","Dist - Em servico","Amostra MUS",422.297,422.297,0,0
+"INT-405363","DC - CEEE-D","Amostra MUS",761.94,761.94,0,0
+"INT-406309","Ger - Direito de autorizacao","Amostra MUS",584.781,584.781,0,0
+"INT-407494","Dist - Em servico","Amostra MUS",291.648,291.648,0,0
+"INT-408398","DC - Alagoas","Amostra MUS",257.979,257.979,0,0
+"INT-409398","Dist - Em servico","Amostra MUS",52.184,52.184,0,0
+"INT-410391","Dist - Em servico","Amostra MUS",355.622,355.622,0,0
+"INT-411423","Dist - Em servico","Amostra MUS",230.108,230.108,0,0
+"INT-412502","Dist - Em servico","Amostra MUS",156.48,156.48,0,0
+"INT-413565","Dist - Em servico","Amostra MUS",170.861,170.861,0,0
+"INT-414542","Dist - Em servico","Amostra MUS",1061.501,1061.501,0,0
+"INT-415587","Ger - Direito de autorizacao","Amostra MUS",2120.589,2120.589,0,0
+"INT-416581","DC - Piaui","Amostra MUS",57.647,57.647,0,0
+"INT-417506","Dist - Em servico","Amostra MUS",168.36,168.36,0,0
+"INT-418468","DC - CEA","Amostra MUS",167.335,167.335,0,0
+"INT-419515","Dist - Em servico","Amostra MUS",260.052,260.052,0,0
+"INT-420519","Dist - Em servico","Amostra MUS",62.651,62.651,0,0
+"INT-421653","Dist - Em servico","Amostra MUS",477.977,477.977,0,0
+"INT-422747","Dist - Em servico","Amostra MUS",85.172,85.172,0,0
+"INT-423736","Dist - Em servico","Amostra MUS",99.086,99.086,0,0
+"INT-424888","Dist - Em servico","Amostra MUS",163.511,163.511,0,0
+"INT-425860","Dist - Em servico","Amostra MUS",138.924,138.924,0,0
+"INT-426892","Dist - Em servico","Amostra MUS",155.269,155.269,0,0
+"INT-427889","Ger - Direito de autorizacao","Amostra MUS",2017.949,2017.949,0,0
+"INT-428844","Dist - Em servico","Amostra MUS",207.213,207.213,0,0
+"INT-429882","Dist - Em servico","Amostra MUS",99.205,99.205,0,0
+"INT-430947","Dist - Em servico","Amostra MUS",82.534,82.534,0,0
+"INT-431987","Dist - Em servico","Amostra MUS",74.49,74.49,0,0
+"INT-433145","Dist - Em servico","Amostra MUS",86.666,86.666,0,0
+"INT-434235","Dist - Em servico","Amostra MUS",193.53,193.53,0,0
+"INT-435375","Dist - Em servico","Amostra MUS",69.438,69.438,0,0
+"INT-436392","Dist - Em servico","Amostra MUS",957.335,957.335,0,0
+"INT-437468","Ger - Direito de autorizacao","Amostra MUS",223.266,223.266,0,0
+"INT-438567","Dist - Em servico","Amostra MUS",325.838,325.838,0,0
+"INT-439610","DC - CEEE-D","Amostra MUS",209.685,209.685,0,0
+"INT-440656","Dist - Em servico","Amostra MUS",153.23,153.23,0,0
+"INT-441769","Dist - Em servico","Amostra MUS",134.163,134.163,0,0
+"INT-442728","Dist - Em servico","Amostra MUS",331.234,331.234,0,0
+"INT-443828","Dist - Outros","Amostra MUS",5.733,5.733,0,0
+"INT-444807","DC - CEA","Amostra MUS",392.72,392.72,0,0
+"INT-445773","Dist - Em servico","Amostra MUS",151.824,151.824,0,0
+"INT-446708","Ger - Direito de autorizacao","Amostra MUS",1813.111,1813.111,0,0
+"INT-447662","DC - CEA","Amostra MUS",247.094,247.094,0,0
+"INT-448742","DC - CEA","Amostra MUS",480.781,480.781,0,0
+"INT-449818","DC - CEA","Amostra MUS",186.074,186.074,0,0
+"INT-450801","Dist - Em servico","Amostra MUS",49.218,49.218,0,0
+"INT-451860","Dist - Em servico","Amostra MUS",225.068,225.068,0,0
+"INT-452891","DC - CEEE-D","Amostra MUS",3573.557,3573.557,0,0
+"INT-453798","Dist - Em servico","Amostra MUS",113.4,113.4,0,0
+"INT-454842","Dist - Em servico","Amostra MUS",28.403,28.403,0,0
+"INT-455934","DC - CEEE-D","Amostra MUS",1557.028,1557.028,0,0
+"INT-456966","Dist - Em servico","Amostra MUS",86.785,86.785,0,0
+"INT-457924","Dist - Em servico","Amostra MUS",814.91,814.91,0,0
+"INT-458943","Dist - Em servico","Amostra MUS",94.565,94.565,0,0
+"INT-459950","Dist - Em servico","Amostra MUS",218.099,218.099,0,0
+"INT-461019","Dist - Em servico","Amostra MUS",295.597,295.597,0,0
+"INT-462016","Dist - Em servico","Amostra MUS",111.88,111.88,0,0
+"INT-463170","Dist - Em servico","Amostra MUS",1118.687,1118.687,0,0
+"INT-463823","Dist - Em servico","Amostra MUS",865.382,865.382,0,0
+"INT-464885","Dist - Em servico","Amostra MUS",313.177,313.177,0,0
+"INT-465959","Dist - Em servico","Amostra MUS",27.666,27.666,0,0
+"INT-466945","Dist - Em servico","Amostra MUS",26.679,26.679,0,0
+"INT-468034","Dist - Em servico","Amostra MUS",753.976,753.976,0,0
+"INT-468958","DC - CEA","Amostra MUS",533.878,533.878,0,0
+"INT-469875","Dist - Em servico","Amostra MUS",38.499,38.499,0,0
+"INT-470930","Dist - Em servico","Amostra MUS",484.378,484.378,0,0
+"INT-471905","Dist - Em servico","Amostra MUS",39.324,39.324,0,0
+"INT-472709","Dist - Em servico","Amostra MUS",140.44,140.44,0,0
+"INT-473709","Dist - Em servico","Amostra MUS",28.689,28.689,0,0
+"INT-474940","Dist - Em servico","Amostra MUS",96.918,96.918,0,0
+"INT-476009","Dist - Em servico","Amostra MUS",85.058,85.058,0,0
+"INT-477006","Dist - Em servico","Amostra MUS",586.716,586.716,0,0
+"INT-477956","San - DC CSA","Amostra MUS",1744.877,1744.877,0,0
+"INT-478988","Ger - Direito de autorizacao","Amostra MUS",652.435,652.435,0,0
+"INT-480058","DC - CEA","Amostra MUS",2229.598,2229.598,0,0
+"INT-481060","Dist - Em servico","Amostra MUS",4273.994,4273.994,0,0
+"INT-482160","Dist - Em servico","Amostra MUS",137.943,137.943,0,0
+"INT-483190","Dist - Em servico","Amostra MUS",56.486,56.486,0,0
+"INT-484257","Dist - Em servico","Amostra MUS",58.538,58.538,0,0
+"INT-485142","Ger - Direito de exploracao","Amostra MUS",829.158,829.158,0,0
+"INT-486091","DC - CEEE-D","Amostra MUS",1701.923,1701.923,0,0
+"INT-487115","Dist - Em servico","Amostra MUS",47.114,47.114,0,0
+"INT-488139","Dist - Em servico","Amostra MUS",69.224,69.224,0,0
+"INT-489255","San - DC CSA","Amostra MUS",503.929,503.929,0,0
+"INT-490238","Dist - Em servico","Amostra MUS",494.985,494.985,0,0
+"INT-491294","Dist - Em servico","Amostra MUS",169.317,169.317,0,0
+"INT-492157","Ger - Direito de autorizacao","Amostra MUS",487.936,487.936,0,0
+"INT-493105","Dist - Em servico","Amostra MUS",30.242,30.242,0,0
+"INT-494026","Dist - Em servico","Amostra MUS",7.167,7.167,0,0
+"INT-495245","DC - CEEE-D","Amostra MUS",151.41,151.41,0,0
+"INT-496281","Dist - Em servico","Amostra MUS",569.957,569.957,0,0
+"INT-497239","Dist - Em servico","Amostra MUS",94.516,94.516,0,0
+"INT-498441","Dist - Em servico","Amostra MUS",96.481,96.481,0,0
+"INT-499264","Dist - Em servico","Amostra MUS",166.95,166.95,0,0
+"INT-500257","Dist - Em servico","Amostra MUS",309.56,309.56,0,0
+"INT-501207","Ger - Direito de autorizacao","Amostra MUS",65.965,65.965,0,0
+"INT-502067","Dist - Em servico","Amostra MUS",109.136,109.136,0,0
+"INT-503209","DC - CEEE-D","Amostra MUS",495.042,495.042,0,0
+"INT-504210","DC - CEEE-D","Amostra MUS",89.873,89.873,0,0
+"INT-505351","Dist - Em servico","Amostra MUS",216.231,216.231,0,0
+"INT-506374","Ger - Direito de exploracao","Amostra MUS",2665.087,2665.087,0,0
+"INT-507312","Dist - Em servico","Amostra MUS",19290.951,119.701,19171.25,0.993794966354951
+"INT-508112","Dist - Em servico","Amostra MUS",37.687,37.687,0,0
+"INT-509259","Dist - Em servico","Amostra MUS",359.926,359.926,0,0
+"INT-510244","Dist - Em servico","Amostra MUS",671.983,671.983,0,0
+"INT-511308","Dist - Em servico","Amostra MUS",349.957,349.957,0,0
+"INT-512247","Dist - Em servico","Amostra MUS",179.604,179.604,0,0
+"INT-513381","Dist - Em servico","Amostra MUS",636.623,636.623,0,0
+"INT-514533","Dist - Em servico","Amostra MUS",120.678,120.678,0,0
+"INT-515579","Dist - Em servico","Amostra MUS",7.272,7.272,0,0
+"INT-516600","Dist - Em servico","Amostra MUS",170.287,170.287,0,0
+"INT-517778","Ger - Direito de exploracao","Amostra MUS",16.892,16.892,0,0
+"INT-518875","Dist - Em servico","Amostra MUS",91.936,91.936,0,0
+"INT-519986","Dist - Em servico","Amostra MUS",419.521,419.521,0,0
+"INT-521002","Ger - Direito de autorizacao","Amostra MUS",4633.157,4633.157,0,0
+"INT-521883","Dist - Em servico","Amostra MUS",41.303,41.303,0,0
+"INT-523000","Dist - Em servico","Amostra MUS",103.189,103.189,0,0
+"INT-524094","Dist - Em servico","Amostra MUS",263.306,263.306,0,0
+"INT-072127","DC - Piaui","Amostra MUS",189.148,0,189.148,1

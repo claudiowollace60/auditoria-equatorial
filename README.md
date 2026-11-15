@@ -1,124 +1,58 @@
-# Auditoria 1 — Equatorial Energia Distribuição S.A.
+# Auditoria 1 - P2: Equatorial S.A. (holding, consolidado) - Exercício 2025
 
-**Instituição:** Universidade de Brasília (UnB)  
+Matrícula **242010937** · Conta-alvo: **Intangível (R$ 31.729.991 mil)** · Entidade: **Equatorial S.A.** (antes Equatorial Energia S.A.; EQTL3) · Entrega: 25/10/2026 (prazo das instruções).
 
-**Disciplina:** Auditoria 1  
+> Este projeto **substitui** o anterior. O anterior usava valores de uma controlada e materialidade de 1% de R$ 15.199.199 mil; aqui tudo parte das **demonstrações consolidadas da holding** (DFP 2025, PDF fornecido).
 
-**Aluno:** Cláudio Wollace Santos Da Hora
+## Como reproduzir (do zero, ~30 s)
+```r
+# no R, com a raiz do projeto como diretório de trabalho (R >= 4.1)
+source("R/run_all.R")        # roda 01..11, gera o PDF (se houver Chrome) e roda a verificação
+```
+Opcional: `python3 R/13_gerar_xlsx.py` (planilha editável; requer `openpyxl`). Semente única: `242010937` (R/00_config.R).
+`R/12_verificacao.R` imprime a lista **OK/FALTA** (29 requisitos) e grava `resultados/verificacao.csv`.
 
-**Matrícula:** 242010937
-
-**Área de estudo:** ativo financeiro da concessão e obrigações especiais relacionadas
-
-**Natureza:** trabalho acadêmico, sem emissão de opinião de auditoria sobre a companhia.
-
-Projeto acadêmico desenvolvido na disciplina **Auditoria 1**, da Universidade de Brasília (UnB), com foco no ativo financeiro da concessão e nas obrigações especiais relacionadas da Equatorial Energia Distribuição S.A., referentes ao exercício de 2025.
-
-O repositório reúne análise documental pública, procedimentos analíticos em R, avaliação de riscos, materialidade, documentação de papéis de trabalho e matriz de cobertura das Normas Brasileiras de Contabilidade aplicáveis à auditoria independente.
-
-**Exercício de referência:** 2025  
-**Ambiente de desenvolvimento:** RStudio / R  
-**Status:** projeto acadêmico em fase de revisão e validação final.
-
-## Aviso importante
-
-A base analítica utilizada é **inteiramente sintética** e não representa registros contábeis internos da Equatorial Energia Distribuição S.A. Foi desenvolvida para fins didáticos, permitindo testar scripts de auditoria e conciliar os saldos agregados com os valores públicos de referência.
-
-Os resultados dos testes sobre essa base demonstram o funcionamento da metodologia implementada, mas não constituem constatações sobre os registros reais da companhia nem fundamentam uma opinião de auditoria.
-
-## Referência contábil
-
-O estudo utiliza como referência os valores divulgados na Nota Explicativa 11 das demonstrações contábeis de 2025, conforme a identificação registrada no controle de fontes do projeto.
-
-Valores em R$ mil:
-
-| Descrição | Valor |
-|---|---:|
-| Ativo financeiro da concessão — bruto | 21.062.007,0 |
-| Obrigações especiais | (5.862.808,0) |
-| Ativo financeiro da concessão — líquido | 15.199.199,0 |
-
-**Fonte documental:** página impressa 44, correspondente à página 46 do PDF consultado. A URL, a data de acesso e as informações de referência estão registradas em `fontes/controle_fontes.csv`.
-
-## Objetivos do projeto
-
-- Aplicar conceitos de planejamento e documentação de auditoria independente.
-- Relacionar riscos de distorção relevante às afirmações contábeis pertinentes.
-- Desenvolver testes analíticos sobre uma população de dados sintéticos.
-- Verificar integridade, unicidade, conciliação de saldos e diferenças de recálculo.
-- Documentar exceções simuladas e avaliar sua identificação pelos testes.
-- Elaborar papéis de trabalho, matriz de riscos, parâmetros ilustrativos de materialidade e matriz de cobertura normativa.
-
-## Estrutura do repositório
-
-| Diretório | Conteúdo |
+## Estrutura
+| Pasta | Conteúdo |
 |---|---|
-| `R/` | Scripts de geração da base, testes iniciais, avaliação de exceções, papéis de trabalho, materialidade, riscos e cobertura normativa |
-| `dados/` | Base sintética comprimida, dicionário de variáveis e controle dos erros inseridos |
-| `resultados/` | Resultados dos testes, amostra ilustrativa, exceções, papéis de trabalho e matrizes analíticas |
-| `fontes/` | Controle das fontes públicas e das referências normativas |
-| `normas/` | Documentação de apoio e referências normativas |
-| `dossie/` | Relatório técnico, programas de auditoria e documentação do trabalho |
+| `R/` | Scripts numerados 00-13 (config, fatos, base, materialidade, testes, conciliações, MUS, sensibilidade, analíticos, PTs, programas/minutas, dossiê, verificação, xlsx) |
+| `fontes/` | `fatos_dfp_2025.csv` (34 fatos com página do PDF), `controle_fontes.csv` |
+| `dados/` | **Base SINTÉTICA** (coluna `origem_dado`) (525.150 reg.), gabarito limpo, **log de erros inseridos**, dicionário, premissas |
+| `resultados/` | Todas as saídas (CSV), `pts_27.csv`, matriz NBC TA, pendências, verificação, xlsx editável |
+| `papeis_trabalho/` | **PT EC e PT 200 a PT 600** (27 PTs do roteiro do P2; um `.md` por PT, estrutura uniforme) |
+| `programas_auditoria/` | Receitas, disponibilidades, estoques, imobilizado/intangível, passivos, estimativas |
+| `minutas/` | Carta de contratação (PT 210), comunicação com a governança (PT 260), modelos de circularização (PT 505), carta de representação (PT 580), carta de recomendações e estrutura didática de relatório (sem opinião) |
+| `docs/` | Índice dos PTs, convenção de códigos (PT 230) e **conclusão integrada** |
+| `dossie/` | `dossie_P2.pdf/.html/.md` com referências cruzadas e figuras |
 
-## Procedimentos analíticos implementados
+## O que atende a cada feedback do professor
+| Feedback | Onde |
+|---|---|
+| Entidade/perímetro (holding) | Dossiê §1-2; PT01; `fontes/fatos_dfp_2025.csv` |
+| C2 - 27 PTs com profundidade uniforme, minutas, revisão | `resultados/pts_27.csv`; `papeis_trabalho/`; `minutas/`; campo de revisão em todos |
+| C3 - materialidade justificada para as DFs como um todo | `resultados/01-04_materialidade*`; PT11 (6 benchmarks comparados) |
+| C5 - MUS, sensibilidade executada, avaliação da amostra | `resultados/14-17` (MUS pré e pós-correção, Stringer), `18-20` (sensibilidade), PT20/PT21 |
+| C6 - organização e reprodutibilidade | `run_all.R`, semente fixa, verificação OK/FALTA |
 
-Os scripts em R contemplam:
+## Natureza dos PTs (classificação oficial)
+14 *Realizado com evidência pública* · 11 *Simulado para fins didáticos* · 2 *Planejado por falta de acesso* (PT 220 e PT 402; nos demais PTs as partes que dependem de acesso interno estão detalhadas como planejadas dentro do próprio PT).
 
-- Geração de uma população sintética de **500.000 registros**.
-- Verificação da integridade da população e da unicidade dos identificadores.
-- Conciliação dos saldos agregados com os valores públicos de referência utilizados no exercício.
-- Recálculo de valores e identificação de diferenças.
-- Identificação de registros sem identificador de documento de suporte e de datas fora do período analisado.
-- Comparação entre erros inseridos deliberadamente na simulação e exceções detectadas.
-- Geração de resultados para documentação e análise das limitações dos testes.
+## Resultados-chave
+- Base limpa fecha com a Nota 14 (R$ 31.729.991 mil). Com 1.430 erros inseridos, a diferença é R$ 855.050 mil; os testes explicam R$ 854.668 mil (recall 65%, precisão 99,6%); **E8/E9 (500 registros) escapam por desenho** e aparecem como limitação.
+- Materialidade: global R$ 260.000 mil (0,5% da ROL), execução R$ 195.000 mil, trivial R$ 13.000 mil.
+- MUS: pré-correção LS R$ 1.724.180 mil > ME (não conclui); pós-correção LS R$ 194.723 mil ≤ ME (margem estreita).
+- Inconsistências **da própria DFP**: 1.741 entre Notas 14 e 14.1 (efeito líquido nulo); componentes do impairment R$ 3.547.852 mil x total declarado R$ 3.391.261 mil (R$ 156.591 mil); amortização de Distribuição - Em serviço R$ 720.175 mil acima da expectativa (pendência P-19-1).
 
-## Resultados da simulação
+## Limitações e pendências (ver `resultados/pendencias.csv`)
+- A abertura em registros individuais, as datas e a alocação por distribuidora são **simuladas**; só os totais por linha da Nota 14 são públicos.
+- Sensibilidade do impairment usa premissas **hipotéticas** (horizonte 20 anos, g = 3,5%); fluxos reais não são divulgados.
+- **Conferir a versão vigente de cada NBC TA no portal do CFC** e registrar a data de acesso (P-00).
+- Campos de revisão estão PENDENTES em todos os PTs; revisor deve preencher.
 
-Os resultados abaixo referem-se exclusivamente à base sintética:
-
-| Indicador | Resultado |
-|---|---:|
-| Registros analíticos | 500.000 |
-| Identificadores únicos | 500.000 |
-| Diferenças de recálculo inseridas deliberadamente | 250 |
-| Erros inseridos identificados pelos testes | 250 |
-| Erros inseridos não identificados | 0 |
-| Registros sem identificador de documento de suporte | 5.459 |
-| Registros com datas fora do período de 2025 | 75 |
-
-### Conciliação dos saldos sintéticos
-
-| Indicador | Valor em R$ mil |
-|---|---:|
-| Saldo registrado agregado | 15.199.199,0 |
-| Saldo recalculado agregado | 15.216.626,8 |
-| Diferença: registrado menos recalculado | (17.427,8) |
-
-A diferença agregada decorre das alterações introduzidas deliberadamente na base sintética. Os 250 erros de recálculo foram identificados pelos testes implementados. Esse resultado demonstra a detecção dos erros conhecidos inseridos na simulação, não a eficácia de uma auditoria sobre dados reais.
-
-## Documentação principal
-
-- `dossie/relatorio_principal.md` — relatório técnico em formato editável.
-- `dossie/relatorio_principal.pdf` — versão em PDF do relatório.
-- `dossie/programas_auditoria.csv` — programas de auditoria previstos para as áreas consideradas.
-- `resultados/08_matriz_cobertura_NBC_TA.csv` — matriz de cobertura normativa, com referências de versão registradas.
-- `resultados/07_PT500_PT530.csv` — papel de trabalho relacionado aos testes analíticos e à amostragem.
-- `resultados/14_conciliacao_e_excecoes_separadas.csv` — conciliação e classificação das exceções.
-- `fontes/controle_fontes.csv` — registro das fontes públicas consultadas.
-- `fontes/controle_normas.csv` — controle de referências normativas, versões registradas e observações.
-
-## Como executar
-
-1. Abra o projeto no RStudio.
-2. Confirme que o diretório de trabalho é a pasta raiz do projeto.
-3. Execute os scripts da pasta `R/` em ordem numérica, observando as dependências entre eles.
-4. Consulte os arquivos gerados na pasta `resultados/`.
-
-**Atenção:** os scripts podem sobrescrever resultados produzidos anteriormente. Recomenda-se manter uma cópia dos resultados que já tenham sido revisados antes de executar novamente os procedimentos.
-
-## Limitações do estudo
-
-O trabalho não envolveu acesso à razão contábil real da companhia, sistemas internos, contratos integrais ou documentos comprobatórios internos. Não foram realizadas entrevistas, inspeções físicas, confirmações externas ou observações de controles da entidade.
-
-Os procedimentos dependentes de evidências reais permanecem planejados ou não executados. Os parâmetros de materialidade são ilustrativos e acadêmicos. A aplicabilidade e a vigência das versões normativas devem ser confirmadas nas fontes oficiais antes da entrega definitiva.
-
+## Conformidade com as instruções do P2
+- Roteiro: PT EC + NBC TA 200, 210, 220, 230, 240, 250, 260, 265, 300, 315, 320, 330, 402, 450, 500, 501, 505, 510, 520, 530, 540, 550, 560, 570, 580, 600 (27 PTs). A NBC TA 700 não faz parte do roteiro; há apenas uma estrutura didática de relatório **sem opinião**.
+- **Versões das normas** consultadas no portal do CFC em 11/11/2026 (coluna `versao_norma` da matriz). As NBC TA 240 (R2) e 570 (R1) foram publicadas no DOU em 25/09/2026 e só se aplicam a períodos iniciados em ou após 01/01/2027 (notícia do CFC de 28/09/2026, https://cfc.org.br/noticias/cfc-atualiza-normas-de-auditoria-sobre-fraudes-e-continuidade-operacional/); para o exercício de 2025 valem a NBC TA 240 (R1) e a versão da 570 anterior à R1. O número da resolução dessas versões anteriores não consta na lista do CFC consultada e deve ser conferido.
+- **Fontes** (`fontes/controle_fontes.csv`): o PDF da DFP foi fornecido pelo aluno; a URL da Central de Resultados do RI está registrada; link direto do PDF e data de download (11/11/2026) registrados. Portais CVM e B3 constam como "não acessado".
+- **Identificação**: Equatorial S.A. (antes Equatorial Energia S.A.), ticker EQTL3 (Nota 1). Data da mudança de denominação não confirmada.
+- O arquivo da base (~11 MB compactado) cabe no limite do GitHub (100 MB).
+- A data de entrega das instruções era 25/10/2026; confirme com o professor se ainda é aceito.

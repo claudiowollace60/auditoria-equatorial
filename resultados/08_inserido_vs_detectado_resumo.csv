@@ -1,0 +1,7 @@
+"medida","valor"
+"Erros inseridos",1430
+"Detectados (VP)",930
+"Nao detectados (FN)",500
+"Sinalizados que nao sao erros (FP)",4
+"Recall (%)",65
+"Precisao (%)",99.6

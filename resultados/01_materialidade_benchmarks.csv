@@ -1,0 +1,7 @@
+"base","valor_mil","pct_min","pct_max","mat_min_mil","mat_max_mil","racional"
+"Receita operacional liquida (ROL)",52073804,0.005,0.01,260369,520738,"Base estavel e relevante para usuarios de companhia aberta regulada (tarifa); faixa usual 0,5%-1%."
+"ROL excl. receita de construcao (Nota 27)",41367444,0.005,0.01,206837,413674,"Sensibilidade: receita de construcao (ICPC 01) tem margem proxima de zero; mostra o efeito de excluir."
+"Resultado antes de IR/CS (LAIR) 2025",2455004,0.05,0.05,122750,122750,"Faixa usual 5% do lucro; mas o LAIR esta deprimido por impairment de R$ 3,39 bi e por resultado financeiro (Nota 16/31): referencia instavel."
+"LAIR medio 2024-2025",2599154.5,0.05,0.05,129958,129958,"Normalizacao simples por media de dois anos; reduz volatilidade, ainda sob efeito do impairment."
+"Total do ativo",109603944,0.005,0.01,548020,1096039,"Entidade intensiva em ativos (concessoes); faixa usual 0,5%-1% do ativo."
+"Patrimonio liquido",28327947,0.01,0.02,283279,566559,"Referencia complementar de usuarios (acionistas): 1%-2%."

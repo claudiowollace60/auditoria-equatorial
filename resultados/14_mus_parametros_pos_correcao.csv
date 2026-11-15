@@ -1,0 +1,16 @@
+"parametro","valor"
+"Populacao positiva (R$ mil)",32791235.5
+"Registros positivos",500308
+"Registros com liquido = 0 (totalmente amortizados)",2804
+"Registros com liquido < 0",21888
+"Soma liquido < 0 (R$ mil)",-1060862.4
+"Erro toleravel ME (R$ mil)",195000
+"Nivel de confianca",0.95
+"Fator de confianca (zero erros esperados)",3
+"Intervalo de amostragem J = ME/FC (R$ mil)",65000
+"Itens-chave >= J (100%)",0
+"Valor dos itens-chave (R$ mil)",0
+"Valor do restante (R$ mil)",32791235.5
+"Tamanho da amostra MUS (restante)",505
+"Partida aleatoria",24280.89
+"Semente",242010944

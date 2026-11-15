@@ -1,0 +1,7 @@
+JUSTIFICATIVA (NBC TA 320 itens 10-11, A3-A8):
+1. A materialidade e determinada para o CONSOLIDADO (todas as demonstracoes), nao para uma conta isolada. Base escolhida: ROL 2025 = R$ 52.073.804 mil; percentual 0,5% = R$ 260.369 mil, arredondado para R$ 260.000 mil.
+2. O LAIR (R$ 2.455.004 mil) foi descartado como base principal: 5% daria R$ 122.750 mil, valor influenciado por impairment (R$ 3,39 bi) e pela baixa de transmissao (operacao descontinuada) - base volatil e nao representativa do tamanho da entidade.
+3. O ativo total (R$ 109,6 bi) a 0,5% daria R$ 548.020 mil: acima da adotada; a ROL e mais sensivel ao uso das demonstracoes por investidores e credores (covenants de divida liquida/EBITDA).
+4. Excluindo receita de construcao (R$ 10.706.360 mil), 0,5% da ROL daria R$ 206.837 mil: a adotada fica 25.7% acima; aceito porque a receita de construcao tem margem proxima de zero mas integra a ROL publicada.
+5. Cobertura do Intangivel: a materialidade de execucao (R$ 195.000 mil) equivale a 0.615% do saldo; dai o numero de itens do MUS (PT20).
+6. Julgamento revisavel: se os usuarios principais forem credores, o LAIR/EBITDA passa a ser mais relevante; registrar no PT11 e rever apos o PT10.

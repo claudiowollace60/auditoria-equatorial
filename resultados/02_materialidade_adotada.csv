@@ -1,0 +1,6 @@
+"item","valor_mil","criterio"
+"Materialidade global (DFs como um todo)",260000,"0,5% da ROL 2025 (R$ 52.073.804 mil), arredondada"
+"Materialidade de execucao (75%)",195000,"75% da global"
+"Limite de distorcoes triviais (5%)",13000,"5% da global"
+"Materialidade especifica (50%): partes relacionadas, covenants e divulgacao de impairment",130000,"50% da global"
+"Erro tolerável (ME) para MUS no Intangivel = materialidade de execucao",195000,"igual a execucao"

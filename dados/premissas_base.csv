@@ -1,0 +1,6 @@
+"premissa"
+"Os totais por linha (custo, amortizacao acumulada, obrigacoes vinculadas) reproduzem a Nota 14 da DFP 2025 (PDF p.63) e somam R$ 31.729.991 mil."
+"A abertura em registros individuais NAO existe na DFP: a distribuicao de valores (lognormal), as datas e a alocacao por distribuidora sao simuladas (natureza: Simulado para fins didaticos)."
+"Datas calibradas para que custo x taxa x idade reproduza a amortizacao acumulada de cada linha."
+"Erros sao inseridos APOS a reconciliacao; o log fica em dados/log_erros_inseridos.csv (gabarito do professor/auditor)."
+"Os erros E8 e E9 foram desenhados para NAO serem detectaveis pelos testes aritmeticos (limitacao assumida na avaliacao)."

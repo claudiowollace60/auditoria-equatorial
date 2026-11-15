@@ -1,0 +1,501 @@
+"tipo_erro","id_registro","descricao","desenhado_para","valor_distorcao_mil","id_registro_ref","detectado"
+"E8_subamortizacao_coerente","INT-387762","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.342,"INT-387762",FALSE
+"E8_subamortizacao_coerente","INT-417021","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.001,"INT-417021",FALSE
+"E8_subamortizacao_coerente","INT-007704","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.335,"INT-007704",FALSE
+"E8_subamortizacao_coerente","INT-171822","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.091,"INT-171822",FALSE
+"E8_subamortizacao_coerente","INT-458041","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.088,"INT-458041",FALSE
+"E8_subamortizacao_coerente","INT-439943","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.288,"INT-439943",FALSE
+"E8_subamortizacao_coerente","INT-456099","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.008,"INT-456099",FALSE
+"E8_subamortizacao_coerente","INT-353664","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.715,"INT-353664",FALSE
+"E8_subamortizacao_coerente","INT-229394","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",3.382,"INT-229394",FALSE
+"E8_subamortizacao_coerente","INT-438483","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.53,"INT-438483",FALSE
+"E8_subamortizacao_coerente","INT-128685","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.351,"INT-128685",FALSE
+"E8_subamortizacao_coerente","INT-242637","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.746,"INT-242637",FALSE
+"E8_subamortizacao_coerente","INT-083153","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.754,"INT-083153",FALSE
+"E8_subamortizacao_coerente","INT-477855","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.332,"INT-477855",FALSE
+"E8_subamortizacao_coerente","INT-265286","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.482,"INT-265286",FALSE
+"E8_subamortizacao_coerente","INT-445721","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.084,"INT-445721",FALSE
+"E8_subamortizacao_coerente","INT-134199","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.408,"INT-134199",FALSE
+"E8_subamortizacao_coerente","INT-363338","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",3.358,"INT-363338",FALSE
+"E8_subamortizacao_coerente","INT-243975","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.261,"INT-243975",FALSE
+"E8_subamortizacao_coerente","INT-154134","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.549,"INT-154134",FALSE
+"E8_subamortizacao_coerente","INT-492694","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.001,"INT-492694",FALSE
+"E8_subamortizacao_coerente","INT-356403","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.148,"INT-356403",FALSE
+"E8_subamortizacao_coerente","INT-156947","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.723,"INT-156947",FALSE
+"E8_subamortizacao_coerente","INT-291264","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.214,"INT-291264",FALSE
+"E8_subamortizacao_coerente","INT-054275","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.157,"INT-054275",FALSE
+"E8_subamortizacao_coerente","INT-224997","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.162,"INT-224997",FALSE
+"E8_subamortizacao_coerente","INT-168392","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.613,"INT-168392",FALSE
+"E8_subamortizacao_coerente","INT-171004","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.408,"INT-171004",FALSE
+"E8_subamortizacao_coerente","INT-499265","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.161,"INT-499265",FALSE
+"E8_subamortizacao_coerente","INT-514018","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.895,"INT-514018",FALSE
+"E8_subamortizacao_coerente","INT-204524","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.301,"INT-204524",FALSE
+"E8_subamortizacao_coerente","INT-392139","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.337,"INT-392139",FALSE
+"E8_subamortizacao_coerente","INT-369992","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",8.432,"INT-369992",FALSE
+"E8_subamortizacao_coerente","INT-006005","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.025,"INT-006005",FALSE
+"E8_subamortizacao_coerente","INT-320816","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.134,"INT-320816",FALSE
+"E8_subamortizacao_coerente","INT-197145","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.425,"INT-197145",FALSE
+"E8_subamortizacao_coerente","INT-383311","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.566,"INT-383311",FALSE
+"E8_subamortizacao_coerente","INT-190693","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.223,"INT-190693",FALSE
+"E8_subamortizacao_coerente","INT-013728","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.134,"INT-013728",FALSE
+"E8_subamortizacao_coerente","INT-499547","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.465,"INT-499547",FALSE
+"E8_subamortizacao_coerente","INT-087803","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.45,"INT-087803",FALSE
+"E8_subamortizacao_coerente","INT-404165","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.225,"INT-404165",FALSE
+"E8_subamortizacao_coerente","INT-268220","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.353,"INT-268220",FALSE
+"E8_subamortizacao_coerente","INT-450861","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.08,"INT-450861",FALSE
+"E8_subamortizacao_coerente","INT-271356","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.616,"INT-271356",FALSE
+"E8_subamortizacao_coerente","INT-497696","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.213,"INT-497696",FALSE
+"E8_subamortizacao_coerente","INT-217133","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.51,"INT-217133",FALSE
+"E8_subamortizacao_coerente","INT-125624","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.896,"INT-125624",FALSE
+"E8_subamortizacao_coerente","INT-206012","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.024,"INT-206012",FALSE
+"E8_subamortizacao_coerente","INT-518335","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.579,"INT-518335",FALSE
+"E8_subamortizacao_coerente","INT-048153","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.105,"INT-048153",FALSE
+"E8_subamortizacao_coerente","INT-443503","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.444,"INT-443503",FALSE
+"E8_subamortizacao_coerente","INT-133576","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.324,"INT-133576",FALSE
+"E8_subamortizacao_coerente","INT-440609","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.516,"INT-440609",FALSE
+"E8_subamortizacao_coerente","INT-477506","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",3.289,"INT-477506",FALSE
+"E8_subamortizacao_coerente","INT-203468","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.824,"INT-203468",FALSE
+"E8_subamortizacao_coerente","INT-145027","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.103,"INT-145027",FALSE
+"E8_subamortizacao_coerente","INT-040765","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.585,"INT-040765",FALSE
+"E8_subamortizacao_coerente","INT-280366","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.234,"INT-280366",FALSE
+"E8_subamortizacao_coerente","INT-517907","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.956,"INT-517907",FALSE
+"E8_subamortizacao_coerente","INT-065546","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.081,"INT-065546",FALSE
+"E8_subamortizacao_coerente","INT-296046","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.117,"INT-296046",FALSE
+"E8_subamortizacao_coerente","INT-140697","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.584,"INT-140697",FALSE
+"E8_subamortizacao_coerente","INT-039607","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.518,"INT-039607",FALSE
+"E8_subamortizacao_coerente","INT-468618","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.389,"INT-468618",FALSE
+"E8_subamortizacao_coerente","INT-481549","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.264,"INT-481549",FALSE
+"E8_subamortizacao_coerente","INT-304232","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.524,"INT-304232",FALSE
+"E8_subamortizacao_coerente","INT-166612","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.365,"INT-166612",FALSE
+"E8_subamortizacao_coerente","INT-166823","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.204,"INT-166823",FALSE
+"E8_subamortizacao_coerente","INT-336208","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.158,"INT-336208",FALSE
+"E8_subamortizacao_coerente","INT-106211","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.101,"INT-106211",FALSE
+"E8_subamortizacao_coerente","INT-043635","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.944,"INT-043635",FALSE
+"E8_subamortizacao_coerente","INT-328378","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",4.043,"INT-328378",FALSE
+"E8_subamortizacao_coerente","INT-422570","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.42,"INT-422570",FALSE
+"E8_subamortizacao_coerente","INT-155520","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",3.226,"INT-155520",FALSE
+"E8_subamortizacao_coerente","INT-394849","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.595,"INT-394849",FALSE
+"E8_subamortizacao_coerente","INT-217099","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",13.518,"INT-217099",FALSE
+"E8_subamortizacao_coerente","INT-406046","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.137,"INT-406046",FALSE
+"E8_subamortizacao_coerente","INT-489730","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.758,"INT-489730",FALSE
+"E8_subamortizacao_coerente","INT-342024","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.547,"INT-342024",FALSE
+"E8_subamortizacao_coerente","INT-451478","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.993,"INT-451478",FALSE
+"E8_subamortizacao_coerente","INT-148477","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.133,"INT-148477",FALSE
+"E8_subamortizacao_coerente","INT-441832","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.913,"INT-441832",FALSE
+"E8_subamortizacao_coerente","INT-212248","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.386,"INT-212248",FALSE
+"E8_subamortizacao_coerente","INT-002468","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",7.47,"INT-002468",FALSE
+"E8_subamortizacao_coerente","INT-223199","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.423,"INT-223199",FALSE
+"E8_subamortizacao_coerente","INT-466225","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.716,"INT-466225",FALSE
+"E8_subamortizacao_coerente","INT-498358","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.337,"INT-498358",FALSE
+"E8_subamortizacao_coerente","INT-521009","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.057,"INT-521009",FALSE
+"E8_subamortizacao_coerente","INT-225258","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.104,"INT-225258",FALSE
+"E8_subamortizacao_coerente","INT-212913","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.159,"INT-212913",FALSE
+"E8_subamortizacao_coerente","INT-262246","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.31,"INT-262246",FALSE
+"E8_subamortizacao_coerente","INT-051909","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.181,"INT-051909",FALSE
+"E8_subamortizacao_coerente","INT-151014","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.836,"INT-151014",FALSE
+"E8_subamortizacao_coerente","INT-103907","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.599,"INT-103907",FALSE
+"E8_subamortizacao_coerente","INT-081772","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.529,"INT-081772",FALSE
+"E8_subamortizacao_coerente","INT-132439","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.001,"INT-132439",FALSE
+"E8_subamortizacao_coerente","INT-177250","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.444,"INT-177250",FALSE
+"E8_subamortizacao_coerente","INT-243216","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.265,"INT-243216",FALSE
+"E8_subamortizacao_coerente","INT-237414","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.15,"INT-237414",FALSE
+"E8_subamortizacao_coerente","INT-202621","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.234,"INT-202621",FALSE
+"E8_subamortizacao_coerente","INT-178056","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.495,"INT-178056",FALSE
+"E8_subamortizacao_coerente","INT-474421","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.342,"INT-474421",FALSE
+"E8_subamortizacao_coerente","INT-392772","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.163,"INT-392772",FALSE
+"E8_subamortizacao_coerente","INT-429392","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.524,"INT-429392",FALSE
+"E8_subamortizacao_coerente","INT-115641","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",15.377,"INT-115641",FALSE
+"E8_subamortizacao_coerente","INT-266254","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",3.215,"INT-266254",FALSE
+"E8_subamortizacao_coerente","INT-040542","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.004,"INT-040542",FALSE
+"E8_subamortizacao_coerente","INT-293951","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.454,"INT-293951",FALSE
+"E8_subamortizacao_coerente","INT-453317","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.419,"INT-453317",FALSE
+"E8_subamortizacao_coerente","INT-459299","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.973,"INT-459299",FALSE
+"E8_subamortizacao_coerente","INT-408595","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.558,"INT-408595",FALSE
+"E8_subamortizacao_coerente","INT-356773","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.291,"INT-356773",FALSE
+"E8_subamortizacao_coerente","INT-520111","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.049,"INT-520111",FALSE
+"E8_subamortizacao_coerente","INT-034226","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.05,"INT-034226",FALSE
+"E8_subamortizacao_coerente","INT-497555","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.009,"INT-497555",FALSE
+"E8_subamortizacao_coerente","INT-168517","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.023,"INT-168517",FALSE
+"E8_subamortizacao_coerente","INT-446775","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.452,"INT-446775",FALSE
+"E8_subamortizacao_coerente","INT-213292","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.503,"INT-213292",FALSE
+"E8_subamortizacao_coerente","INT-357805","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.366,"INT-357805",FALSE
+"E8_subamortizacao_coerente","INT-389609","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.477,"INT-389609",FALSE
+"E8_subamortizacao_coerente","INT-416702","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.666,"INT-416702",FALSE
+"E8_subamortizacao_coerente","INT-380114","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.975,"INT-380114",FALSE
+"E8_subamortizacao_coerente","INT-359117","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.216,"INT-359117",FALSE
+"E8_subamortizacao_coerente","INT-333509","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",13.481,"INT-333509",FALSE
+"E8_subamortizacao_coerente","INT-045331","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.607,"INT-045331",FALSE
+"E8_subamortizacao_coerente","INT-172077","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",4.072,"INT-172077",FALSE
+"E8_subamortizacao_coerente","INT-147732","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.166,"INT-147732",FALSE
+"E8_subamortizacao_coerente","INT-397764","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.429,"INT-397764",FALSE
+"E8_subamortizacao_coerente","INT-117825","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.662,"INT-117825",FALSE
+"E8_subamortizacao_coerente","INT-043299","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.218,"INT-043299",FALSE
+"E8_subamortizacao_coerente","INT-221245","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.894,"INT-221245",FALSE
+"E8_subamortizacao_coerente","INT-044969","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.131,"INT-044969",FALSE
+"E8_subamortizacao_coerente","INT-114078","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.137,"INT-114078",FALSE
+"E8_subamortizacao_coerente","INT-220761","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.045,"INT-220761",FALSE
+"E8_subamortizacao_coerente","INT-496226","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.414,"INT-496226",FALSE
+"E8_subamortizacao_coerente","INT-324697","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.458,"INT-324697",FALSE
+"E8_subamortizacao_coerente","INT-283700","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.084,"INT-283700",FALSE
+"E8_subamortizacao_coerente","INT-242307","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.214,"INT-242307",FALSE
+"E8_subamortizacao_coerente","INT-118513","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.367,"INT-118513",FALSE
+"E8_subamortizacao_coerente","INT-006095","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.881,"INT-006095",FALSE
+"E8_subamortizacao_coerente","INT-481933","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.071,"INT-481933",FALSE
+"E8_subamortizacao_coerente","INT-070048","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.091,"INT-070048",FALSE
+"E8_subamortizacao_coerente","INT-013178","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.871,"INT-013178",FALSE
+"E8_subamortizacao_coerente","INT-020783","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.157,"INT-020783",FALSE
+"E8_subamortizacao_coerente","INT-039738","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.317,"INT-039738",FALSE
+"E8_subamortizacao_coerente","INT-225940","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.098,"INT-225940",FALSE
+"E8_subamortizacao_coerente","INT-324302","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.603,"INT-324302",FALSE
+"E8_subamortizacao_coerente","INT-333444","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.371,"INT-333444",FALSE
+"E8_subamortizacao_coerente","INT-000200","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.71,"INT-000200",FALSE
+"E8_subamortizacao_coerente","INT-259865","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.023,"INT-259865",FALSE
+"E8_subamortizacao_coerente","INT-265202","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.019,"INT-265202",FALSE
+"E8_subamortizacao_coerente","INT-353512","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.396,"INT-353512",FALSE
+"E8_subamortizacao_coerente","INT-024862","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",6.003,"INT-024862",FALSE
+"E8_subamortizacao_coerente","INT-451506","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.017,"INT-451506",FALSE
+"E8_subamortizacao_coerente","INT-430316","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",17.544,"INT-430316",FALSE
+"E8_subamortizacao_coerente","INT-372305","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.09,"INT-372305",FALSE
+"E8_subamortizacao_coerente","INT-177597","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.29,"INT-177597",FALSE
+"E8_subamortizacao_coerente","INT-101219","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.491,"INT-101219",FALSE
+"E8_subamortizacao_coerente","INT-188021","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.406,"INT-188021",FALSE
+"E8_subamortizacao_coerente","INT-020776","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.368,"INT-020776",FALSE
+"E8_subamortizacao_coerente","INT-186008","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.086,"INT-186008",FALSE
+"E8_subamortizacao_coerente","INT-500148","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.552,"INT-500148",FALSE
+"E8_subamortizacao_coerente","INT-208822","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.744,"INT-208822",FALSE
+"E8_subamortizacao_coerente","INT-199197","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",3.773,"INT-199197",FALSE
+"E8_subamortizacao_coerente","INT-464969","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.032,"INT-464969",FALSE
+"E8_subamortizacao_coerente","INT-501816","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.323,"INT-501816",FALSE
+"E8_subamortizacao_coerente","INT-422062","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.243,"INT-422062",FALSE
+"E8_subamortizacao_coerente","INT-391947","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.218,"INT-391947",FALSE
+"E8_subamortizacao_coerente","INT-332921","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.582,"INT-332921",FALSE
+"E8_subamortizacao_coerente","INT-204042","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.188,"INT-204042",FALSE
+"E8_subamortizacao_coerente","INT-343344","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.005,"INT-343344",FALSE
+"E8_subamortizacao_coerente","INT-377189","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.189,"INT-377189",FALSE
+"E8_subamortizacao_coerente","INT-292762","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.249,"INT-292762",FALSE
+"E8_subamortizacao_coerente","INT-064278","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.878,"INT-064278",FALSE
+"E8_subamortizacao_coerente","INT-042102","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.126,"INT-042102",FALSE
+"E8_subamortizacao_coerente","INT-522134","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.012,"INT-522134",FALSE
+"E8_subamortizacao_coerente","INT-235517","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.514,"INT-235517",FALSE
+"E8_subamortizacao_coerente","INT-106413","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.281,"INT-106413",FALSE
+"E8_subamortizacao_coerente","INT-370556","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.194,"INT-370556",FALSE
+"E8_subamortizacao_coerente","INT-164918","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.512,"INT-164918",FALSE
+"E8_subamortizacao_coerente","INT-500156","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.431,"INT-500156",FALSE
+"E8_subamortizacao_coerente","INT-021254","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.954,"INT-021254",FALSE
+"E8_subamortizacao_coerente","INT-421830","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.432,"INT-421830",FALSE
+"E8_subamortizacao_coerente","INT-503897","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.44,"INT-503897",FALSE
+"E8_subamortizacao_coerente","INT-148864","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.68,"INT-148864",FALSE
+"E8_subamortizacao_coerente","INT-507469","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.095,"INT-507469",FALSE
+"E8_subamortizacao_coerente","INT-249657","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.807,"INT-249657",FALSE
+"E8_subamortizacao_coerente","INT-417614","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.067,"INT-417614",FALSE
+"E8_subamortizacao_coerente","INT-042948","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.001,"INT-042948",FALSE
+"E8_subamortizacao_coerente","INT-387356","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.843,"INT-387356",FALSE
+"E8_subamortizacao_coerente","INT-293428","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.053,"INT-293428",FALSE
+"E8_subamortizacao_coerente","INT-275587","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.652,"INT-275587",FALSE
+"E8_subamortizacao_coerente","INT-475655","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.143,"INT-475655",FALSE
+"E8_subamortizacao_coerente","INT-383472","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.137,"INT-383472",FALSE
+"E8_subamortizacao_coerente","INT-288836","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",4.617,"INT-288836",FALSE
+"E8_subamortizacao_coerente","INT-395888","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.384,"INT-395888",FALSE
+"E8_subamortizacao_coerente","INT-154264","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.461,"INT-154264",FALSE
+"E8_subamortizacao_coerente","INT-195149","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.121,"INT-195149",FALSE
+"E8_subamortizacao_coerente","INT-446850","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.241,"INT-446850",FALSE
+"E8_subamortizacao_coerente","INT-493756","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.417,"INT-493756",FALSE
+"E8_subamortizacao_coerente","INT-342846","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.241,"INT-342846",FALSE
+"E8_subamortizacao_coerente","INT-361141","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.265,"INT-361141",FALSE
+"E8_subamortizacao_coerente","INT-332190","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.505,"INT-332190",FALSE
+"E8_subamortizacao_coerente","INT-421336","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.247,"INT-421336",FALSE
+"E8_subamortizacao_coerente","INT-274722","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.107,"INT-274722",FALSE
+"E8_subamortizacao_coerente","INT-252422","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.428,"INT-252422",FALSE
+"E8_subamortizacao_coerente","INT-227745","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",4.837,"INT-227745",FALSE
+"E8_subamortizacao_coerente","INT-052946","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.06,"INT-052946",FALSE
+"E8_subamortizacao_coerente","INT-277138","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.165,"INT-277138",FALSE
+"E8_subamortizacao_coerente","INT-481034","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.324,"INT-481034",FALSE
+"E8_subamortizacao_coerente","INT-512757","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.59,"INT-512757",FALSE
+"E8_subamortizacao_coerente","INT-301753","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.175,"INT-301753",FALSE
+"E8_subamortizacao_coerente","INT-385465","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.053,"INT-385465",FALSE
+"E8_subamortizacao_coerente","INT-352964","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.409,"INT-352964",FALSE
+"E8_subamortizacao_coerente","INT-398534","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.226,"INT-398534",FALSE
+"E8_subamortizacao_coerente","INT-384454","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",10.747,"INT-384454",FALSE
+"E8_subamortizacao_coerente","INT-163653","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.003,"INT-163653",FALSE
+"E8_subamortizacao_coerente","INT-451083","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.291,"INT-451083",FALSE
+"E8_subamortizacao_coerente","INT-258313","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.052,"INT-258313",FALSE
+"E8_subamortizacao_coerente","INT-171576","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.751,"INT-171576",FALSE
+"E8_subamortizacao_coerente","INT-515768","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",9.247,"INT-515768",FALSE
+"E8_subamortizacao_coerente","INT-169820","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.439,"INT-169820",FALSE
+"E8_subamortizacao_coerente","INT-169835","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",10.387,"INT-169835",FALSE
+"E8_subamortizacao_coerente","INT-316618","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0,"INT-316618",FALSE
+"E8_subamortizacao_coerente","INT-522452","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.889,"INT-522452",FALSE
+"E8_subamortizacao_coerente","INT-164561","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.289,"INT-164561",FALSE
+"E8_subamortizacao_coerente","INT-388224","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.559,"INT-388224",FALSE
+"E8_subamortizacao_coerente","INT-016895","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.963,"INT-016895",FALSE
+"E8_subamortizacao_coerente","INT-144336","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.835,"INT-144336",FALSE
+"E8_subamortizacao_coerente","INT-190393","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.843,"INT-190393",FALSE
+"E8_subamortizacao_coerente","INT-380208","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.917,"INT-380208",FALSE
+"E8_subamortizacao_coerente","INT-387505","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.565,"INT-387505",FALSE
+"E8_subamortizacao_coerente","INT-420250","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.518,"INT-420250",FALSE
+"E8_subamortizacao_coerente","INT-250162","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.085,"INT-250162",FALSE
+"E8_subamortizacao_coerente","INT-301494","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.354,"INT-301494",FALSE
+"E8_subamortizacao_coerente","INT-082987","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.925,"INT-082987",FALSE
+"E8_subamortizacao_coerente","INT-467959","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.345,"INT-467959",FALSE
+"E8_subamortizacao_coerente","INT-224467","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",5.74,"INT-224467",FALSE
+"E8_subamortizacao_coerente","INT-011299","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.55,"INT-011299",FALSE
+"E8_subamortizacao_coerente","INT-054240","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.057,"INT-054240",FALSE
+"E8_subamortizacao_coerente","INT-237881","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.217,"INT-237881",FALSE
+"E8_subamortizacao_coerente","INT-189776","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.879,"INT-189776",FALSE
+"E8_subamortizacao_coerente","INT-215879","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.063,"INT-215879",FALSE
+"E8_subamortizacao_coerente","INT-234194","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",4.642,"INT-234194",FALSE
+"E8_subamortizacao_coerente","INT-268830","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.007,"INT-268830",FALSE
+"E8_subamortizacao_coerente","INT-144997","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.373,"INT-144997",FALSE
+"E8_subamortizacao_coerente","INT-048721","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",11.13,"INT-048721",FALSE
+"E8_subamortizacao_coerente","INT-002229","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.18,"INT-002229",FALSE
+"E8_subamortizacao_coerente","INT-313175","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.464,"INT-313175",FALSE
+"E8_subamortizacao_coerente","INT-246767","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.485,"INT-246767",FALSE
+"E8_subamortizacao_coerente","INT-002200","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.047,"INT-002200",FALSE
+"E8_subamortizacao_coerente","INT-116059","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.837,"INT-116059",FALSE
+"E8_subamortizacao_coerente","INT-429804","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.002,"INT-429804",FALSE
+"E8_subamortizacao_coerente","INT-194633","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.344,"INT-194633",FALSE
+"E8_subamortizacao_coerente","INT-447170","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.486,"INT-447170",FALSE
+"E8_subamortizacao_coerente","INT-055525","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.762,"INT-055525",FALSE
+"E8_subamortizacao_coerente","INT-089858","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.898,"INT-089858",FALSE
+"E8_subamortizacao_coerente","INT-133159","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.399,"INT-133159",FALSE
+"E8_subamortizacao_coerente","INT-420078","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.174,"INT-420078",FALSE
+"E8_subamortizacao_coerente","INT-423445","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.302,"INT-423445",FALSE
+"E8_subamortizacao_coerente","INT-518619","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",4.264,"INT-518619",FALSE
+"E8_subamortizacao_coerente","INT-468182","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.665,"INT-468182",FALSE
+"E8_subamortizacao_coerente","INT-043827","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.809,"INT-043827",FALSE
+"E8_subamortizacao_coerente","INT-163292","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.064,"INT-163292",FALSE
+"E8_subamortizacao_coerente","INT-265080","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.531,"INT-265080",FALSE
+"E8_subamortizacao_coerente","INT-311885","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.275,"INT-311885",FALSE
+"E8_subamortizacao_coerente","INT-232238","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.46,"INT-232238",FALSE
+"E8_subamortizacao_coerente","INT-095972","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",2.821,"INT-095972",FALSE
+"E8_subamortizacao_coerente","INT-491398","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.068,"INT-491398",FALSE
+"E8_subamortizacao_coerente","INT-508089","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.151,"INT-508089",FALSE
+"E8_subamortizacao_coerente","INT-295508","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.128,"INT-295508",FALSE
+"E8_subamortizacao_coerente","INT-365388","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.092,"INT-365388",FALSE
+"E8_subamortizacao_coerente","INT-477021","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.151,"INT-477021",FALSE
+"E8_subamortizacao_coerente","INT-395946","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.634,"INT-395946",FALSE
+"E8_subamortizacao_coerente","INT-291138","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.18,"INT-291138",FALSE
+"E8_subamortizacao_coerente","INT-510668","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.133,"INT-510668",FALSE
+"E8_subamortizacao_coerente","INT-353894","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.431,"INT-353894",FALSE
+"E8_subamortizacao_coerente","INT-100879","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.151,"INT-100879",FALSE
+"E8_subamortizacao_coerente","INT-291195","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.607,"INT-291195",FALSE
+"E8_subamortizacao_coerente","INT-336605","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.451,"INT-336605",FALSE
+"E8_subamortizacao_coerente","INT-389503","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.381,"INT-389503",FALSE
+"E8_subamortizacao_coerente","INT-358936","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.203,"INT-358936",FALSE
+"E8_subamortizacao_coerente","INT-096837","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.561,"INT-096837",FALSE
+"E8_subamortizacao_coerente","INT-060290","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.099,"INT-060290",FALSE
+"E8_subamortizacao_coerente","INT-191819","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.617,"INT-191819",FALSE
+"E8_subamortizacao_coerente","INT-276423","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.367,"INT-276423",FALSE
+"E8_subamortizacao_coerente","INT-333289","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",5.799,"INT-333289",FALSE
+"E8_subamortizacao_coerente","INT-147976","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.205,"INT-147976",FALSE
+"E8_subamortizacao_coerente","INT-064030","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.289,"INT-064030",FALSE
+"E8_subamortizacao_coerente","INT-457326","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.758,"INT-457326",FALSE
+"E8_subamortizacao_coerente","INT-112037","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.042,"INT-112037",FALSE
+"E8_subamortizacao_coerente","INT-483369","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.114,"INT-483369",FALSE
+"E8_subamortizacao_coerente","INT-427606","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",4.841,"INT-427606",FALSE
+"E8_subamortizacao_coerente","INT-040434","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.621,"INT-040434",FALSE
+"E8_subamortizacao_coerente","INT-429486","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.654,"INT-429486",FALSE
+"E8_subamortizacao_coerente","INT-245898","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.275,"INT-245898",FALSE
+"E8_subamortizacao_coerente","INT-434121","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.313,"INT-434121",FALSE
+"E8_subamortizacao_coerente","INT-036976","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",1.27,"INT-036976",FALSE
+"E8_subamortizacao_coerente","INT-013290","taxa 3% menor e amortizacao recalculada de forma coerente (passa nos testes aritmeticos)","NENHUM (so analitico/estimativa)",0.782,"INT-013290",FALSE
+"E9_classificacao_incorreta","INT-356514","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-356514",FALSE
+"E9_classificacao_incorreta","INT-341326","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-341326",FALSE
+"E9_classificacao_incorreta","INT-464111","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-464111",FALSE
+"E9_classificacao_incorreta","INT-321217","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-321217",FALSE
+"E9_classificacao_incorreta","INT-052071","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-052071",FALSE
+"E9_classificacao_incorreta","INT-348619","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-348619",FALSE
+"E9_classificacao_incorreta","INT-127539","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-127539",FALSE
+"E9_classificacao_incorreta","INT-095317","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-095317",FALSE
+"E9_classificacao_incorreta","INT-339863","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-339863",FALSE
+"E9_classificacao_incorreta","INT-493356","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-493356",FALSE
+"E9_classificacao_incorreta","INT-106590","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-106590",FALSE
+"E9_classificacao_incorreta","INT-420736","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-420736",FALSE
+"E9_classificacao_incorreta","INT-403777","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-403777",FALSE
+"E9_classificacao_incorreta","INT-076132","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-076132",FALSE
+"E9_classificacao_incorreta","INT-316886","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-316886",FALSE
+"E9_classificacao_incorreta","INT-318691","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-318691",FALSE
+"E9_classificacao_incorreta","INT-278842","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-278842",FALSE
+"E9_classificacao_incorreta","INT-434428","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-434428",FALSE
+"E9_classificacao_incorreta","INT-159455","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-159455",FALSE
+"E9_classificacao_incorreta","INT-294905","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-294905",FALSE
+"E9_classificacao_incorreta","INT-278350","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-278350",FALSE
+"E9_classificacao_incorreta","INT-307594","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-307594",FALSE
+"E9_classificacao_incorreta","INT-141570","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-141570",FALSE
+"E9_classificacao_incorreta","INT-255653","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-255653",FALSE
+"E9_classificacao_incorreta","INT-359620","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-359620",FALSE
+"E9_classificacao_incorreta","INT-295759","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-295759",FALSE
+"E9_classificacao_incorreta","INT-237694","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-237694",FALSE
+"E9_classificacao_incorreta","INT-464217","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-464217",FALSE
+"E9_classificacao_incorreta","INT-203389","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-203389",FALSE
+"E9_classificacao_incorreta","INT-102548","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-102548",FALSE
+"E9_classificacao_incorreta","INT-367423","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-367423",FALSE
+"E9_classificacao_incorreta","INT-040582","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-040582",FALSE
+"E9_classificacao_incorreta","INT-498884","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-498884",FALSE
+"E9_classificacao_incorreta","INT-350462","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-350462",FALSE
+"E9_classificacao_incorreta","INT-204329","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-204329",FALSE
+"E9_classificacao_incorreta","INT-146455","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-146455",FALSE
+"E9_classificacao_incorreta","INT-224444","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-224444",FALSE
+"E9_classificacao_incorreta","INT-357690","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-357690",FALSE
+"E9_classificacao_incorreta","INT-301044","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-301044",FALSE
+"E9_classificacao_incorreta","INT-211724","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-211724",FALSE
+"E9_classificacao_incorreta","INT-397568","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-397568",FALSE
+"E9_classificacao_incorreta","INT-392200","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-392200",FALSE
+"E9_classificacao_incorreta","INT-264851","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-264851",FALSE
+"E9_classificacao_incorreta","INT-456647","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-456647",FALSE
+"E9_classificacao_incorreta","INT-389940","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-389940",FALSE
+"E9_classificacao_incorreta","INT-340660","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-340660",FALSE
+"E9_classificacao_incorreta","INT-342488","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-342488",FALSE
+"E9_classificacao_incorreta","INT-371766","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-371766",FALSE
+"E9_classificacao_incorreta","INT-392511","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-392511",FALSE
+"E9_classificacao_incorreta","INT-227121","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-227121",FALSE
+"E9_classificacao_incorreta","INT-354973","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-354973",FALSE
+"E9_classificacao_incorreta","INT-473710","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-473710",FALSE
+"E9_classificacao_incorreta","INT-154864","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-154864",FALSE
+"E9_classificacao_incorreta","INT-069305","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-069305",FALSE
+"E9_classificacao_incorreta","INT-134178","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-134178",FALSE
+"E9_classificacao_incorreta","INT-008155","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-008155",FALSE
+"E9_classificacao_incorreta","INT-090831","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-090831",FALSE
+"E9_classificacao_incorreta","INT-198836","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-198836",FALSE
+"E9_classificacao_incorreta","INT-405236","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-405236",FALSE
+"E9_classificacao_incorreta","INT-011212","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-011212",FALSE
+"E9_classificacao_incorreta","INT-249554","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-249554",FALSE
+"E9_classificacao_incorreta","INT-297465","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-297465",FALSE
+"E9_classificacao_incorreta","INT-510258","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-510258",FALSE
+"E9_classificacao_incorreta","INT-095497","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-095497",FALSE
+"E9_classificacao_incorreta","INT-118640","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-118640",FALSE
+"E9_classificacao_incorreta","INT-181915","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-181915",FALSE
+"E9_classificacao_incorreta","INT-061123","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-061123",FALSE
+"E9_classificacao_incorreta","INT-345967","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-345967",FALSE
+"E9_classificacao_incorreta","INT-161824","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-161824",FALSE
+"E9_classificacao_incorreta","INT-520496","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-520496",FALSE
+"E9_classificacao_incorreta","INT-229213","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-229213",FALSE
+"E9_classificacao_incorreta","INT-114754","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-114754",FALSE
+"E9_classificacao_incorreta","INT-193990","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-193990",FALSE
+"E9_classificacao_incorreta","INT-285612","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-285612",FALSE
+"E9_classificacao_incorreta","INT-345970","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-345970",FALSE
+"E9_classificacao_incorreta","INT-060254","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-060254",FALSE
+"E9_classificacao_incorreta","INT-228300","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-228300",FALSE
+"E9_classificacao_incorreta","INT-065919","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-065919",FALSE
+"E9_classificacao_incorreta","INT-349054","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-349054",FALSE
+"E9_classificacao_incorreta","INT-267782","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-267782",FALSE
+"E9_classificacao_incorreta","INT-103659","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-103659",FALSE
+"E9_classificacao_incorreta","INT-370644","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-370644",FALSE
+"E9_classificacao_incorreta","INT-431282","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-431282",FALSE
+"E9_classificacao_incorreta","INT-307409","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-307409",FALSE
+"E9_classificacao_incorreta","INT-090150","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-090150",FALSE
+"E9_classificacao_incorreta","INT-144032","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-144032",FALSE
+"E9_classificacao_incorreta","INT-083835","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-083835",FALSE
+"E9_classificacao_incorreta","INT-135686","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-135686",FALSE
+"E9_classificacao_incorreta","INT-306419","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-306419",FALSE
+"E9_classificacao_incorreta","INT-006980","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-006980",FALSE
+"E9_classificacao_incorreta","INT-288656","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-288656",FALSE
+"E9_classificacao_incorreta","INT-390752","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-390752",FALSE
+"E9_classificacao_incorreta","INT-316591","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-316591",FALSE
+"E9_classificacao_incorreta","INT-126060","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-126060",FALSE
+"E9_classificacao_incorreta","INT-025143","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-025143",FALSE
+"E9_classificacao_incorreta","INT-167423","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-167423",FALSE
+"E9_classificacao_incorreta","INT-024021","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-024021",FALSE
+"E9_classificacao_incorreta","INT-114188","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-114188",FALSE
+"E9_classificacao_incorreta","INT-218078","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-218078",FALSE
+"E9_classificacao_incorreta","INT-002928","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-002928",FALSE
+"E9_classificacao_incorreta","INT-362786","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-362786",FALSE
+"E9_classificacao_incorreta","INT-487420","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-487420",FALSE
+"E9_classificacao_incorreta","INT-069074","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-069074",FALSE
+"E9_classificacao_incorreta","INT-328884","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-328884",FALSE
+"E9_classificacao_incorreta","INT-065403","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-065403",FALSE
+"E9_classificacao_incorreta","INT-473540","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-473540",FALSE
+"E9_classificacao_incorreta","INT-069156","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-069156",FALSE
+"E9_classificacao_incorreta","INT-048733","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-048733",FALSE
+"E9_classificacao_incorreta","INT-180818","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-180818",FALSE
+"E9_classificacao_incorreta","INT-464714","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-464714",FALSE
+"E9_classificacao_incorreta","INT-480058","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-480058",FALSE
+"E9_classificacao_incorreta","INT-078966","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-078966",FALSE
+"E9_classificacao_incorreta","INT-343992","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-343992",FALSE
+"E9_classificacao_incorreta","INT-014299","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-014299",FALSE
+"E9_classificacao_incorreta","INT-298092","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-298092",FALSE
+"E9_classificacao_incorreta","INT-137559","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-137559",FALSE
+"E9_classificacao_incorreta","INT-324825","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-324825",FALSE
+"E9_classificacao_incorreta","INT-508300","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-508300",FALSE
+"E9_classificacao_incorreta","INT-150981","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-150981",FALSE
+"E9_classificacao_incorreta","INT-348633","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-348633",FALSE
+"E9_classificacao_incorreta","INT-074829","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-074829",FALSE
+"E9_classificacao_incorreta","INT-410326","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-410326",FALSE
+"E9_classificacao_incorreta","INT-058060","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-058060",FALSE
+"E9_classificacao_incorreta","INT-314545","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-314545",FALSE
+"E9_classificacao_incorreta","INT-197664","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-197664",FALSE
+"E9_classificacao_incorreta","INT-161572","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-161572",FALSE
+"E9_classificacao_incorreta","INT-376153","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-376153",FALSE
+"E9_classificacao_incorreta","INT-037964","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-037964",FALSE
+"E9_classificacao_incorreta","INT-052886","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-052886",FALSE
+"E9_classificacao_incorreta","INT-427280","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-427280",FALSE
+"E9_classificacao_incorreta","INT-115532","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-115532",FALSE
+"E9_classificacao_incorreta","INT-261039","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-261039",FALSE
+"E9_classificacao_incorreta","INT-362718","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-362718",FALSE
+"E9_classificacao_incorreta","INT-195445","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-195445",FALSE
+"E9_classificacao_incorreta","INT-222896","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-222896",FALSE
+"E9_classificacao_incorreta","INT-406447","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-406447",FALSE
+"E9_classificacao_incorreta","INT-204835","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-204835",FALSE
+"E9_classificacao_incorreta","INT-166369","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-166369",FALSE
+"E9_classificacao_incorreta","INT-304471","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-304471",FALSE
+"E9_classificacao_incorreta","INT-250578","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-250578",FALSE
+"E9_classificacao_incorreta","INT-346480","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-346480",FALSE
+"E9_classificacao_incorreta","INT-259014","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-259014",FALSE
+"E9_classificacao_incorreta","INT-272837","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-272837",FALSE
+"E9_classificacao_incorreta","INT-375568","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-375568",FALSE
+"E9_classificacao_incorreta","INT-423742","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-423742",FALSE
+"E9_classificacao_incorreta","INT-062811","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-062811",FALSE
+"E9_classificacao_incorreta","INT-388411","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-388411",FALSE
+"E9_classificacao_incorreta","INT-351970","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-351970",FALSE
+"E9_classificacao_incorreta","INT-200682","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-200682",FALSE
+"E9_classificacao_incorreta","INT-432969","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-432969",FALSE
+"E9_classificacao_incorreta","INT-070166","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-070166",FALSE
+"E9_classificacao_incorreta","INT-033613","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-033613",FALSE
+"E9_classificacao_incorreta","INT-407041","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-407041",FALSE
+"E9_classificacao_incorreta","INT-454023","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-454023",FALSE
+"E9_classificacao_incorreta","INT-309042","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-309042",FALSE
+"E9_classificacao_incorreta","INT-413401","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-413401",FALSE
+"E9_classificacao_incorreta","INT-085754","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-085754",FALSE
+"E9_classificacao_incorreta","INT-524709","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-524709",FALSE
+"E9_classificacao_incorreta","INT-320322","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-320322",FALSE
+"E9_classificacao_incorreta","INT-179943","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-179943",FALSE
+"E9_classificacao_incorreta","INT-189521","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-189521",FALSE
+"E9_classificacao_incorreta","INT-421373","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-421373",FALSE
+"E9_classificacao_incorreta","INT-243511","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-243511",FALSE
+"E9_classificacao_incorreta","INT-001556","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-001556",FALSE
+"E9_classificacao_incorreta","INT-009036","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-009036",FALSE
+"E9_classificacao_incorreta","INT-236338","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-236338",FALSE
+"E9_classificacao_incorreta","INT-036257","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-036257",FALSE
+"E9_classificacao_incorreta","INT-323048","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-323048",FALSE
+"E9_classificacao_incorreta","INT-319301","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-319301",FALSE
+"E9_classificacao_incorreta","INT-516811","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-516811",FALSE
+"E9_classificacao_incorreta","INT-215672","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-215672",FALSE
+"E9_classificacao_incorreta","INT-137391","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-137391",FALSE
+"E9_classificacao_incorreta","INT-158663","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-158663",FALSE
+"E9_classificacao_incorreta","INT-231640","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-231640",FALSE
+"E9_classificacao_incorreta","INT-510891","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-510891",FALSE
+"E9_classificacao_incorreta","INT-060054","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-060054",FALSE
+"E9_classificacao_incorreta","INT-114589","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-114589",FALSE
+"E9_classificacao_incorreta","INT-211370","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-211370",FALSE
+"E9_classificacao_incorreta","INT-478758","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-478758",FALSE
+"E9_classificacao_incorreta","INT-457100","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-457100",FALSE
+"E9_classificacao_incorreta","INT-062172","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-062172",FALSE
+"E9_classificacao_incorreta","INT-009997","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-009997",FALSE
+"E9_classificacao_incorreta","INT-031514","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-031514",FALSE
+"E9_classificacao_incorreta","INT-421123","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-421123",FALSE
+"E9_classificacao_incorreta","INT-258085","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-258085",FALSE
+"E9_classificacao_incorreta","INT-452990","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-452990",FALSE
+"E9_classificacao_incorreta","INT-474850","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-474850",FALSE
+"E9_classificacao_incorreta","INT-121808","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-121808",FALSE
+"E9_classificacao_incorreta","INT-302569","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-302569",FALSE
+"E9_classificacao_incorreta","INT-036094","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-036094",FALSE
+"E9_classificacao_incorreta","INT-229257","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-229257",FALSE
+"E9_classificacao_incorreta","INT-267326","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-267326",FALSE
+"E9_classificacao_incorreta","INT-207894","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-207894",FALSE
+"E9_classificacao_incorreta","INT-404652","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-404652",FALSE
+"E9_classificacao_incorreta","INT-406339","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-406339",FALSE
+"E9_classificacao_incorreta","INT-516619","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-516619",FALSE
+"E9_classificacao_incorreta","INT-410134","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-410134",FALSE
+"E9_classificacao_incorreta","INT-009909","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-009909",FALSE
+"E9_classificacao_incorreta","INT-482336","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-482336",FALSE
+"E9_classificacao_incorreta","INT-414537","registro de uma concessao classificado em outra com a mesma taxa (valores coerentes)","NENHUM (requer evidencia externa)",0,"INT-414537",FALSE

@@ -1,0 +1,7 @@
+"classe","custo_medio_mil","taxa","registrado_mil","esperado_mil","diferenca_mil","dif_pct","acima_limiar","conclusao"
+"Distribuicao - Em servico (bruto)",47375227.5,0.0423,2974983,2003972,971011,48.5,TRUE,"Diferenca acima do limiar: nao explicada com dados publicos - solicitar abertura de taxas/baixas/transferencias (PT19, pendencia P-19-1)"
+"Distribuicao - Obrigacoes especiais (reduz amortizacao)",7614456,0.0423,572927,322091,250836,77.9,TRUE,"Diferenca acima do limiar: nao explicada com dados publicos - solicitar abertura de taxas/baixas/transferencias (PT19, pendencia P-19-1)"
+"Distribuicao - Direito de concessao",7208332,0.0364788756660543,269976,262952,7024,2.7,FALSE,"Dentro do limiar: expectativa corrobora o registrado"
+"Saneamento - Direito de concessao CSA",1106164,0.0288,34700,31858,2842,8.9,FALSE,"Dentro do limiar: expectativa corrobora o registrado"
+"Geracao - Direito de autorizacao",2385402,0.0322,76722,76810,-88,-0.1,FALSE,"Dentro do limiar: expectativa corrobora o registrado"
+"Distribuicao - Em servico, liquido de obrigacoes especiais",NA,NA,2402056,1681881,720175,42.8,TRUE,"Diferenca acima do limiar: nao explicada com dados publicos - solicitar abertura de taxas/baixas/transferencias (PT19, pendencia P-19-1)"

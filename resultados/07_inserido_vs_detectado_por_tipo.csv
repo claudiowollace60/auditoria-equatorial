@@ -1,0 +1,10 @@
+"tipo_erro","inseridos","detectados","nao_detectados","recall_pct","distorcao_total_mil","distorcao_nao_detectada_mil"
+"E1_duplicidade",150,150,0,100,11691,0
+"E2_liquido_inconsistente",200,200,0,100,39971,0
+"E3_superamortizacao",150,150,0,100,14239,0
+"E4_data_futura",100,100,0,100,0,0
+"E5_taxa_incorreta",150,150,0,100,0,0
+"E6_sinal_invertido",100,100,0,100,9177.7,0
+"E7_outlier_valor",80,80,0,100,808235.5,0
+"E8_subamortizacao_coerente",300,0,300,0,382.1,382.1
+"E9_classificacao_incorreta",200,0,200,0,0,0

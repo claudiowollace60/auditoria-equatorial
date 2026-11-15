@@ -1,0 +1,8 @@
+"fonte","tipo","relevancia","confiabilidade","suficiencia","limitacao"
+"DFP 2025 auditada (balanço, DRE, DFC)","Documento público formal","Alta","Alta (auditada)","Suficiente para totais","Sem detalhe de transações"
+"Notas explicativas da DFP","Documento público formal","Alta","Alta (auditada)","Suficiente para totais e movimentos; insuficiente para transação a transação","Taxas e premissas agregadas"
+"Relatório do auditor independente (EY, 25/03/2026)","Documento público formal","Alta","Alta","Suficiente para KAM e opinião do auditor","Não substitui trabalho próprio"
+"Base de dados sintética do Intangível","Dados sintéticos","Média (compatível com a Nota 14, mas fictícia)","Não é evidência da companhia","Insuficiente para qualquer conclusão sobre a companhia","Valores individuais fictícios"
+"Cálculos próprios em R","Reperformance","Alta","Alta (reproduzível)","Suficiente para os testes executados","Depende dos dados de entrada"
+"Notícias e portais de mercado","Informação secundária","Baixa","Baixa/média","Insuficiente","Não usada como evidência de saldo"
+"Portal do CFC (normas)","Norma","Alta","Alta","Suficiente","Versões a confirmar"
